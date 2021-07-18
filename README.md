@@ -873,6 +873,12 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
    *Y. Rong, R. Gutierrez, K. V. Mishra, D. W. Bliss*
 
+2. **First Demonstration of Joint Wireless Communication and High-Resolution SAR Imaging Using Airborne MIMO Radar System.** IEEE TGRS, 2019. [Journal](https://ieeexplore.ieee.org/document/8718390)
+
+   *J. Wang, X. Liang, L. Chen, L. Wang, K. Li*
+
+3. 
+
 ### [9.4 Site-Specified Radio Map/Database](#content)
 
 1. **Toward Environment-Aware 6G Communications via Channel Knowledge Map.** IEEE WCM, 2021. [Magazine](https://ieeexplore.ieee.org/abstract/document/9373011)
