@@ -1,5 +1,5 @@
 # Must-Reading Papers on Integrated Sensing and Communications (ISAC)
-Other Terms : Joint Radar Communications (JRC)/ Joint Communication and Radar Sensing (JCS)
+Other Terms : Joint Radar Communications (JRC) / Joint Communication and Radar Sensing (JCS)
 
 Defination: A design paradigm and corresponding enabling technologies, in which sensing and comms systems are integrated to efﬁciently utilize congested wireless/hardware resources, and even to pursue mutual beneﬁts.
 
@@ -25,7 +25,7 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
     <td>&ensp;<a href="#3.2">3.2 Transceiver Design </a></td>
 </tr> 
   <tr>
-    <td>&emsp;<a href="#3.3">3.3 Communication Infrastracture </a></td>
+    <td>&emsp;<a href="#3.3">3.3 Infrastracture Enhancement </a></td>
     <td>&emsp;<a href="#3.4">3.4 Resource Management </a></td>
 <tr><td colspan="2"><a href="#4">4. Signal Processing - Sensing Centric </a></td></tr> 
 <tr>
@@ -42,11 +42,11 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 </tr> 
 <tr><td colspan="2"><a href="#6">6. Networking </a></td></tr>
   <tr>
-    <td>&emsp;<a href="#6.1">6.1 Netted Radar</a></td>
-    <td>&ensp;<a href="#6.2">6.2 Sensor Network </a></td>
+    <td>&emsp;<a href="#6.1">6.1 Radar Networking </a></td>
+    <td>&ensp;<a href="#6.2">6.2 Sensor Networking </a></td>
 </tr> 
     <tr>
-    <td>&emsp;<a href="#6.1">6.3 Networked ISAC</a></td>
+    <td>&emsp;<a href="#6.1">6.3 ISAC Networking </a></td>
 </tr> 
 <tr><td colspan="2"><a href="#7">7. Specturm Sharing </a></td></tr>
 <tr><td colspan="2"><a href="#8">8. Mobile Computing - Wireless Sensing </a></td></tr> 
@@ -65,13 +65,17 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 </tr> 
 <tr>
     <td>&emsp;<a href="#8.3">8.3 Remote Sensing</a></td>
-    <td>&ensp;<a href="#8.4">8.4 Smart Home</a></td>
+    <td>&ensp;<a href="#8.4">8.4 Site-Specified Radio Map/Database</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#8.5">8.5 Radio Map/Database</a></td>
-    <td>&ensp;<a href="#8.6">8.6 SLAM</a></td>
+    <td>&emsp;<a href="#8.5">8.5 Simultaneous Localization and Mapping</a></td>
+    <td>&ensp;<a href="#8.6">8.6 Security</a></td>
+</tr>
+  <tr>
+    <td>&emsp;<a href="#8.7">8.7 Demonstration</a></td>
 </tr>
 </table>
+
 
 
 
@@ -135,7 +139,7 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
 ### [1.3 Communication and Networking](#content)
 
-1. **A Tutorial on Joint Radar and Communication Transmission for Vehicular Networks - Part I,II，III.** IEEE COMML, 2020. [Journal](https://ieeexplore.ieee.org/document/9201513),  [Journal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9201355),  [Journal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9201311). 
+1. **A Tutorial on Joint Radar and Communication Transmission for Vehicular Networks - Part I,II，III.** IEEE COMML, 2020. [Letter](https://ieeexplore.ieee.org/document/9201513),  [Letter](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9201355),  [Letter](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9201311). 
 
     *F. Liu, C. Masouros*
 
@@ -167,7 +171,7 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
 ### [1.4 Mobile Computing](#content)
 
-1. **WiFi Sensing with Channel State Information: A Survey.** ACM CSUR, 2019. [Magazine](https://dl.acm.org/doi/abs/10.1145/3310194). 
+1. **WiFi Sensing with Channel State Information: A Survey.** ACM CSUR, 2019. [Journal](https://dl.acm.org/doi/abs/10.1145/3310194). 
 
     *Y. Ma, G. Zhou, S. Wang*
 
@@ -213,7 +217,7 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
     *S. Shahi, D. Tuninetti, N. Devroye*
 
-1. **Performance Gains From Cooperative MIMO Radar and MIMO Communication Systems.** IEEE SPL, 2018. [Journal](https://ieeexplore.ieee.org/document/8531782)
+1. **Performance Gains From Cooperative MIMO Radar and MIMO Communication Systems.** IEEE SPL, 2018. [Letter](https://ieeexplore.ieee.org/document/8531782)
 
     *Q. He, Z. Wang, J. Hu, R. S. Blum*
 
@@ -221,7 +225,7 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
     *Y. Cui, V. Koivunen, X. Jing*
 
-1. **Performance Tradeoffs of Joint Radar-Communication Networks.** IEEE WCL, 2018. [Journal](https://ieeexplore.ieee.org/document/8436015)
+1. **Performance Tradeoffs of Joint Radar-Communication Networks.** IEEE WCL, 2018. [Letter](https://ieeexplore.ieee.org/document/8436015)
 
     *P. Ren, A. Munari, M. Petrova*
 
@@ -229,9 +233,19 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
     *A. Evers, J. A. Jackson*
 
+1. **Performance Tradeoff in a Unified Passive Radar and Communications System.** IEEE SPL, 2017. [Journal](https://ieeexplore.ieee.org/document/7962141)
+
+    *B. K. Chalise, M. G. Amin, B. Himed*
+    
 1. **Massive MIMO Radar for Target Detection.** IEEE TSP, 2020. [Journal](https://ieeexplore.ieee.org/document/8962251)
 
     *S. Fortunati, L. Sanguinetti, F. Gini, M. S. Greco, B. Himed*
+    
+1. **The Shannon Channel Capacity of A Radar System.** IEEE ACSSC, 2003. [Conference](https://ieeexplore.ieee.org/document/1197159)
+
+    *P. Bidigare* 
+    
+1. 
 
 
 
@@ -247,11 +261,21 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
     *C. B. Barneto, T. Riihonen, M. Turunen, L. Anttiila, M. Fleischer, K. Stadius, J. Ryynanen, M, Valkama.*
 
+1. **Optimized Waveforms for 5G–6G Communication with Sensing: Theory, Simulations and Experiments.** IEEE TWC, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9468975)
+
+    *S. D. Liyanaarachchi, T. Riihonen, C. B. Barneto, M. Valkama.*
+
 1. **LoRadar: Enabling Concurrent Radar Sensing and LoRa Communication.** IEEE TMC, 2020. [Journal](https://ieeexplore.ieee.org/document/9248648)
 
     *Q. Huang, Z. Luo, J. Zhang, W. Wang, Q. Zhang*
 
-1. 
+1. **Intrapulse Radar-Embedded Communications.** IEEE TAES, 2010. [Journal](https://ieeexplore.ieee.org/document/5545182)
+
+    *S. D. Blunt, P. Yatham, J. Stiles*
+
+1. **Intrapulse Radar-embedded Communications Via Multiobjective Optimization.** IEEE TAES, 2015. [Journal](https://ieeexplore.ieee.org/document/7376230)
+
+    *D. Ciuonzo, A. De Maio, G. Foglia, M. Piezzo*
 
 1. 
 
@@ -279,7 +303,11 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
 1. **Hybrid Beamforming for Multi-carrier Dual-Function Radar-Communication System.** IEEE TCCN, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9366836)
 
-    *Z. Cheng, Z. He, B. Liao*
+    *Z. Cheng, Z. He, B. Lia
+
+1. **Multifunctional Transceiver for Future Intelligent Transportation Systems.** IEEE TMTT, 2011. [Journal](https://ieeexplore.ieee.org/document/5759762)
+
+    *L. Han, K. Wu*
 
 1. 
 
@@ -325,7 +353,7 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
     *M. Bică, K. Huang, V. Koivunen, U. Mitra*
 
-1. **Joint Subcarrier Assignment and Power Allocation Strategy for Integrated Radar and Communications System Based on Power Minimization.** IEEE JSEN, 2019. [Journal](https://ieeexplore.ieee.org/document/8804235)
+1. **Joint Subcarrier Assignment and Power Allocation Strategy for Integrated Radar and Communications System Based on Power Minimization.** IEEE Sensor Journal, 2019. [Journal](https://ieeexplore.ieee.org/document/8804235)
 
     *C. Shi, F. Wang, S. Salous, J. Zhou*
 
@@ -345,13 +373,25 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
     *Y. L. Sit, B. Nuss, T. Zwick*
 
-1. **Constrained Utility Maximization in Dual-Functional Radar-Communication Multi-UAV Networks.** IEEE TCOMM, 2020. [Journal](https://ieeexplore.ieee.org/document/9293257)
+1. **Constrained Utility Maximization in Dual-Functional Radar-Communication Multi-UAV Networks.** IEEE TCOM, 2020. [Journal](https://ieeexplore.ieee.org/document/9293257)
 
     *X. Wang, Z. Fei, J. Andrew Zhang, J. Huang, J. Yuan*
 
 1. **Distributed Dual-Function Radar-Communication MIMO System with Optimized Resource Allocation.** IEEE RadarConf, 2019. [Journal](https://ieeexplore.ieee.org/abstract/document/8835674)
 
     *A. Ahmed, Y. D. Zhang, B. Himed*
+
+1. **Low Probability of Intercept-Based Optimal Power Allocation Scheme for an Integrated Multistatic Radar and Communication System.** IEEE Sensor Journal, 2019. [Journal](https://ieeexplore.ieee.org/document/8793158)
+
+    *C. Shi, F. Wang, M. Sellathurai, J. Zhou, S. Salous*
+
+1. **Resource Allocation for a Wireless Powered Integrated Radar and Communication System.** IEEE WCL, 2018. [Letter](https://ieeexplore.ieee.org/document/8454491)
+
+     *Y. Zhou, H. Zhou, F. Zhou, Y. Wu, V. C. M. Leung*
+
+1. **Bandwidth Sharing and Scheduling for Multimodal Radar with Communications and Tracking.** IEEE SAM, 2012. [Conference](https://ieeexplore.ieee.org/document/6250476)
+
+     *S. S. Bhat, R. M. Narayanan, M. Rangaswamy*
 
 1. 
 
@@ -374,7 +414,7 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
     *T. Huang, N. Shlezinger, X. Xu, Y. Liu, Y. C. Eldar*
 
-1. **Waveform Design and Accurate Channel Estimation for Frequency-Hopping MIMO Radar-Based Communications.** IEEE TCOMM, 2020. [Journal](https://ieeexplore.ieee.org/document/9241739)
+1. **Waveform Design and Accurate Channel Estimation for Frequency-Hopping MIMO Radar-Based Communications.** IEEE TCOM, 2020. [Journal](https://ieeexplore.ieee.org/document/9241739)
 
     *K. Wu, J. Andrew Zhang, X. Huang, Y. Jay Guo, R. W. Heath*
 
@@ -390,21 +430,39 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
     *C. D. Ozkaptan, E. Ekici, O. Altintas*
 
-1. **Reliable Frequency-Hopping MIMO Radar-based Communications with Multi-Antenna Receiver.** IEEE TCOMM, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9427572)
+1. **Reliable Frequency-Hopping MIMO Radar-based Communications with Multi-Antenna Receiver.** IEEE TCOM, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9427572)
 
     *K. Wu, J. Andrew Zhang, X. Huang, Y. Jay Guo,  J. Yuan*
 
-1. 
+1. **Fusion of radar sensing and wireless communications by embedding communication signals into the radar transmit waveform.** IET RSN, 2018. [Journal](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-rsn.2017.0405)
 
-1. 
+    *Z. Geng, R. Xu, H. Deng, B. Himed*
+
+1. **Opportunistic Sharing Between Rotating Radar and Cellular.** IEEE JSAC, 2012. [Journal](https://ieeexplore.ieee.org/document/6331681)
+
+    *R. Saruthirathanaworakun, J. M. Peha, L. M. Correia*
+
+1. **Communications-Inspired Sensing: a Case Study on Waveform Design.** IEEE TSP, 2009. [Journal](https://ieeexplore.ieee.org/document/5184909)
+
+     *W. Zhang, L. Yang*
+
+
 
 
 
 ### [4.2 Sensing Data Processing](#content)
 
-1. **Radar Signal Processing for Elderly Fall Detection: The Future for In-home Monitoring.** IEEE MSP, 2016. [Journal](https://ieeexplore.ieee.org/document/7421368)
+1. **Radar Signal Processing for Elderly Fall Detection: The Future for In-home Monitoring.** IEEE SPM, 2016. [Magazine](https://ieeexplore.ieee.org/document/7421368)
 
     *M. G. Amin, Y. D. Zhang, F. Ahmad, K. C. D. Ho*
+
+1. **Signal Processing for Passive Radar Using OFDM Waveforms .** IEEE JSTSP, 2010. [Journal](https://ieeexplore.ieee.org/document/5393298)
+
+    *C. R. Berger, B. Demissie, J. Heckenbach, P. Willett, S. Zhou*
+
+1. **Radar Signal Processing for Sensing in Assisted Living: The Challenges Associated With Real-Time Implementation of Emerging Algorithms.** IEEE SPM, 2019. [Magazine](https://ieeexplore.ieee.org/document/8746868)
+
+    *J.L. Kernec, F. Fioranelli, C. Ding, H. Zhao, L. Sun, H. Hong, J. Lorandel, O. Romain*
 
 1. 
 
@@ -448,15 +506,15 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
     *X. He, L. Huang*
 
-1. **Constrained Utility Maximization in Dual-Functional Radar-Communication Multi-UAV Networks.** IEEE TCOMM, 2020. [Journal](https://ieeexplore.ieee.org/document/9293257)
+1. **Constrained Utility Maximization in Dual-Functional Radar-Communication Multi-UAV Networks.** IEEE TCOM, 2020. [Journal](https://ieeexplore.ieee.org/document/9293257)
 
     *X. Wang, Z. Fei, J. Andrew Zhang, J. Huang, J. Yuan*
 
-1. **Joint Radar-Communication Waveform Designs Using Signals From Multiplexed Users.** IEEE TCOMM, 2020. [Journal](https://ieeexplore.ieee.org/document/9091840)
+1. **Joint Radar-Communication Waveform Designs Using Signals From Multiplexed Users.** IEEE TCOM, 2020. [Journal](https://ieeexplore.ieee.org/document/9091840)
 
     *N. Cao, Y. Chen, X. Gu, W. Feng*
 
-1. **Low-Complexity Beamformer Design for Joint Radar and Communications Systems.** IEEE COMML, 2020. [Journal](https://ieeexplore.ieee.org/document/9201077)
+1. **Low-Complexity Beamformer Design for Joint Radar and Communications Systems.** IEEE COMML, 2020. [Letter](https://ieeexplore.ieee.org/document/9201077)
 
      *F. Dong, W. Wang, Z. Hu, T. Hui*
 
@@ -464,19 +522,97 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
      *F. Liu, C. Masouros*
 
+1. **iRDRC: An Intelligent Real-time Dual-functional Radar-Communication System for Automotive Vehicles.** IEEE WCL, 2020. [Letter](https://ieeexplore.ieee.org/document/9162145)
+
+      *N. Q. Hieu, D. T. Hoang, N. C. Luong, D. Niyato*
+
+1. **Joint Radar-Communication With Cyclic Prefixed Single Carrier Waveforms.** IEEE TVT, 2020. [Journal](https://ieeexplore.ieee.org/document/9005192)
+
+      *Y. Zeng, Y. Ma, S. Sun*
+
+1. **Constrained Waveform Design for Dual-Functional MIMO Radar-Communication System.** SP, 2020. [Journal](https://www.sciencedirect.com/science/article/abs/pii/S0165168420300736)
+
+      *S. Shi ,Z. Wang ,Z. He, Z. Cheng*
+
+1. **Integrated Radar and Communication Waveform Design Based on a Shared Array.** SP, 2020. [Journal](https://www.sciencedirect.com/science/article/abs/pii/S0165168420305004)
+
+      *M. Jiang, G. Liao, Z. Yang, Y. Liu, Y. Chen*
+
+1. **Co-design of Joint Radar and Communications Systems utilizing Frequency Hopping Code Diversity.** IEEE RadarConf, 2019. [Conference](https://ieeexplore.ieee.org/document/8835576)
+
+      *X. Wang, J. Xu*
+
+1. **Dual-Functional Radar Waveforms without Remodulation.** IEEE RADAR, 2019. [Conference](https://ieeexplore.ieee.org/document/8835809)
+
+      *Y. Dong, G. A. Fabrizio, M. G. Amin*
+
+1. **Optimization and Quantization of Multibeam Beamforming Vector for Joint Communication and Radio Sensing.** IEEE TCOM, 2019. [Journal](https://ieeexplore.ieee.org/document/8738892)
+
+      *Y. Luo, J. A. Zhang, X. Huang, W. Ni, J. Pan*
+
+1. **Joint Radar-Communications Co-Use Waveform Design Using Optimized Phase Perturbation.** IEEE TAES, 2019. [Journal](https://ieeexplore.ieee.org/document/8688653)
+
+      *S. Zhou, X. Liang, Y. Yu, H. Liu*
+
+1. **Dual-Function Radar-Communication System Design Via Sidelobe Manipulation Based On FDA Butler Matrix.** IEEE AWPL, 2019. [Letter](https://ieeexplore.ieee.org/document/8618310)
+
+      *S. Y. Nusenu, S. Huaizong, P. Ye, W. Xuehan, A. Basit*
+
+1. **Multibeam for Joint Communication and Radar Sensing Using Steerable Analog Antenna Arrays.** IEEE TVT, 2018. [Journal](https://ieeexplore.ieee.org/document/8550811)
+
+      *J. A. Zhang, X. Huang, Y. J. Guo, J. Yuan, R. W. Heath*
+
+1. **Dual-Function MIMO Radar Communications System Design Via Sparse Array Optimization.** IEEE TAES, 2018. [Journal](https://ieeexplore.ieee.org/document/8438940)
+
+      *X. Wang, A. Hassanien, M. G. Amin*
+
+1. **Time-Modulated FD-MIMO Array for Integrated Radar and Communication Systems.** IEEE AWPL, 2018. [Letter](https://ieeexplore.ieee.org/document/8345628)
+
+      *S. Y. Nusenu, W. Wang, A. Basit*
+
 1. 
 
 1. 
 
 ## [6. Networking](#content)
 
-### [6.1 Distributed Radar /Netted Radar /Multistatic Radar](#content)
+### [6.1 Distributed Radar /Netted Radar /Multistatic Radar Networking](#content)
+
+1. **Evolution of Netted Radar Systems.** IEEE Access, 2020. [Journal](https://ieeexplore.ieee.org/abstract/document/9134443)
+
+   *Z. Geng*
+
+2. **Multistatic Radar Placement Optimization for Cooperative Radar-Communication Systems.** IEEE COMML, 2018. [Letter](https://ieeexplore.ieee.org/document/8360535)
+
+   *M. Ben Kilani, G. Gagnon, F. Gagnon*
+
+3. **Stochastic Geometry Methods for Modeling Automotive Radar Interference.** IEEE TITS, 2017. [Journal](https://ieeexplore.ieee.org/document/7819520)
+
+   *A. Al-Hourani, R. J. Evans, S. Kandeepan, B. Moran, H. Eltom*
+
+4. **IEEE 802.22 Passive Radars: Multistatic Detection and Velocity Profiler.** IEEE TAES, 2016. [Journal](https://ieeexplore.ieee.org/document/7812878)
+
+   *P. Stinco, M. S. Greco, F. Gini, B. Himed*
+
+5. **A Neighbor Discovery Algorithm in Network of Radar and Communication Integrated System.** IEEE CSE, 2015. [Conference](https://ieeexplore.ieee.org/document/7023734)
+
+   *J. Li, L. Peng, Y. Ye, R. Xu, W. Zhao, C. Tian*
+
+6. **Detection in Passive MIMO Radar Networks.** IEEE TSP, 2014. [Journal](https://ieeexplore.ieee.org/document/6803957)
+
+   *D. E. Hack, L. K. Patton, B. Himed, M. A. Saville*
+
+7. 
+
+### [6.2 Sensor Networking](#content)
 
 
 
+### [6.3 ISAC Networking](#content)
 
+1. **RadChat: Spectrum Sharing for Automotive Radar Interference Mitigation.** IEEE TITS, 2021. [Conference](https://ieeexplore.ieee.org/abstract/document/8943325)
 
-### [6.2 Sensor Network](#content)
+   *C. Aydogdu, M. F. Keskin, N. Garcia, H. Wymeersch, D. W. Bliss*
 
 ## [7. Specturm Sharing](#content)
 
@@ -487,6 +623,10 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 1. **Joint Design of Overlaid Communication Systems and Pulsed Radars.** IEEE TSP, 2017. [Journal](https://ieeexplore.ieee.org/document/8114253)
 
     *L. Zheng, M. Lops, X. Wang, E. Grossi*
+
+1. **MIMO Radar and Cellular Coexistence: A Power-Efficient Approach Enabled by Interference Exploitation.** IEEE TSP, 2018. [Journal](https://ieeexplore.ieee.org/document/8355705)
+
+    *F. Liu, C. Masouros, A. Li, T. Ratnarajah, J. Zhou*
 
 1. **Cognitive Radar: A Way of the Future.** IEEE SPM, 2006. [Journal](https://ieeexplore.ieee.org/document/1593335)
 
@@ -504,6 +644,10 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
     *B. Li, A. P. Petropulu*
 
+1. **Joint System Design for Coexistence of MIMO Radar and MIMO Communication.** IEEE TSP, 2018. [Journal](https://ieeexplore.ieee.org/document/8352726)
+
+    *J. Qian, M. Lops, Le Zheng, X. Wang, Z. He*
+
 1. **Opportunistic Sharing Between Rotating Radar and Cellular.** IEEE JSAC, 2012. [Journal](https://ieeexplore.ieee.org/document/6331681)
 
     *R. Saruthirathanaworakun, J. M. Peha, L. M. Correia*
@@ -520,37 +664,87 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
     *L. Zheng, M. Lops, X. Wang*
 
+1. **Joint Design of Surveillance Radar and MIMO Communication in Cluttered Environments.** IEEE TSP, 2020. [Journal](https://ieeexplore.ieee.org/document/9001239)
+
+     *E. Grossi, M. Lops, L. Venturino*
+
 1. **Interference Alignment Based Precoder-Decoder Design for Radar Communication Co-existence.** IEEE ACSSC, 2018. [Conference](https://ieeexplore.ieee.org/document/8335561)
 
      *Y. Cui, V. Koivunen, X. Jing*
 
-1. 
+1. **Information Theoretic Approach for Waveform Design in Coexisting MIMO Radar and MIMO Communications.** IEEE ICASSP, 2020. [Conference](https://ieeexplore.ieee.org/document/9053048)
 
-1. 
+      *M. Alaee-Kerharoodi, S. M. R. Bhavani, K. V. Mishra and B. Ottersten*
 
-1. 
+1. **Multi-constraint Spectral Co-design for Colocated MIMO Radar and MIMO Communications.** IEEE ICASSP, 2020. [Conference](https://ieeexplore.ieee.org/document/9054680)
 
-1. 
+      *S. H. Dokhanchi, M. R. Bhavani Shankar, K. V. Mishra, B. Ottersten*
 
-1. 
+1. **Communications and Radar Coexistence in the Massive MIMO Regime: Uplink Analysis.** IEEE TWC, 2019. [Journal](https://ieeexplore.ieee.org/document/8871348)
 
-1. 
+      *C. D’Andrea, S. Buzzi, M. Lops*
 
-1. 
+1. **Interference Removal for Radar/Communication Co-Existence: The Random Scattering Case.** IEEE TWC, 2019. [Journal](https://ieeexplore.ieee.org/document/8777296)
 
-1. 
+      *Y. Li, L. Zheng, M. Lops, X. Wang*
 
-1. 
+1. **Power Allocation and Co-Design of Multicarrier Communication and Radar Systems for Spectral Coexistence.** IEEE TSP, 2019. [Journal](https://ieeexplore.ieee.org/document/8728046)
 
-1. 
+      *F. Wang, H. Li, M. A. Govoni*
 
-1. **
+      <details><summary> more </summary> 
 
-<details><summary> more </summary> 
+1. **Integrated Waveform for a Joint Radar-Communication System With High-Speed Transmission.** IEEE WCL, 2019. [Letter](https://ieeexplore.ieee.org/document/8693859)
 
-21. **Bayesian Semi-supervised Learning with Graph Gaussian Processes.** NeurIPS 2018. [paper](https://arxiv.org/pdf/1809.04379)
+      *Q. Li, K. Dai, Y. Zhang, H. Zhang*
 
-     *Yin Cheng Ng, Nicolò Colombo, Ricardo Silva.*
+1. **Deep Learning Constellation Design for the AWGN Channel with Additive Radar Interference.** IEEE TCOM, 2018. [Journal](https://ieeexplore.ieee.org/document/8490882)
+
+      *F. Alberge*
+
+1. **Coexistence of MIMO Radar and FD MIMO Cellular Systems With QoS Considerations.** IEEE TWC, 2018. [Journal](https://ieeexplore.ieee.org/document/8447442)
+
+      *S. Biswas, K. Singh, O. Taghizadeh, T. Ratnarajah*
+
+1. **Opportunistic Radar in IEEE 802.11ad Networks.** IEEE TSP, 2018. [Journal](https://ieeexplore.ieee.org/document/8309274)
+
+      *E. Grossi, M. Lops, L. Venturino, A. Zappone*
+
+1. **Transmit Designs for Spectral Coexistence of MIMO Radar and MIMO Communication Systems.** IEEE TCSII, 2018. [Journal](https://ieeexplore.ieee.org/document/8331117)
+
+      *J. Qian, Z. He, N. Huang, B. Li*
+
+1. **Robust MIMO Beamforming for Cellular and Radar Coexistence.** IEEE WCL, 2017. [Letterl](https://ieeexplore.ieee.org/document/7898445)
+
+      *F. Liu, C. Masouros, A. Li, T. Ratnarajah*
+
+1. **Spectral Coexistence of MIMO Radar and MIMO Cellular System.** IEEE TAES, 2017. [Journal](https://ieeexplore.ieee.org/document/7814210)
+
+      *J. A. Mahal, A. Khawar, A. Abdelhadi, T. C. Clancy*
+
+1. **Spectrum Sharing between a Surveillance Radar and Secondary Wi-Fi Networks.** IEEE TAES, 2016. [Journal](https://ieeexplore.ieee.org/document/7511869)
+
+      *F. Hessar, S. Roy*
+
+1. **On the Co-Existence of TD-LTE and Radar Over 3.5 GHz Band: An Experimental Study.** IEEE WCL, 2016. [Letter](https://ieeexplore.ieee.org/document/7462190)
+
+      *J. H. Reed et al.*
+
+1. **Spectrum Sharing of Radar and Wi-Fi Networks: The Sensing/Throughput Tradeoff.** IEEE TCCN, 2015. [Journal](https://ieeexplore.ieee.org/document/7460082)
+
+      *H. Safavi-Naeini, S. Roy, S. Ashrafi*
+
+1. **MIMO OFDM Radar with Communication and Interference Cancellation Features.** IEEE RADAR, 2014. [Conference](https://ieeexplore.ieee.org/document/6875596)
+
+      *Y. L. Sit, T. Zwick*
+
+1. **Radar Waveform Design in a Spectrally Crowded Environment Via Nonconvex Quadratic Optimization.** IEEE TAES, 2014. [Journal](https://ieeexplore.ieee.org/document/6850145)
+
+      *A. Aubry, A. De Maio, M. Piezzo, A. Farina*
+
+1. **Interference Mitigation Processing for Spectrum-Sharing Between Radar and Wireless Communications Systems.** IEEE TAES, 2013. [Journal](https://ieeexplore.ieee.org/document/6933960)
+
+      *H. Deng, B. Himed*
 
        </details>
 
@@ -565,25 +759,65 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
 2. **WiFall: Device-Free Fall Detection by Wireless Networks.** IEEE TMC, 2016. [Journal](https://ieeexplore.ieee.org/document/7458186)
 
-   *Y. Wang, K. Wu, L. M. Ni, "WiFall*
+   *Y. Wang, K. Wu, L. M. Ni *
 
-3. 
+3. **Recognizing Keystrokes Using WiFi Devices.** IEEE JSAC, 2017. [Journal](https://ieeexplore.ieee.org/document/7875144)
+
+   *YK. Ali, A. X. Liu, W. Wang, M. Shahzad*
+
+4. **Device-Free Human Activity Recognition Using Commercial WiFi Devices.** IEEE JSAC, 2017. [Journal](https://ieeexplore.ieee.org/document/7875144)
+
+   *W. Wang, A. X. Liu, M. Shahzad, K. Ling, S. Lu*
+
+5. **Toward Centimeter-Scale Human Activity Sensing with Wi-Fi Signals.** IEEE Computer, 2018. [Magazine](https://ieeexplore.ieee.org/document/7807197/)
+
+   *D. Zhang, H. Wang, D. Wu*
+
+6. **A Survey on Behavior Recognition Using WiFi Channel State Information.** IEEE COMMAG, 2017. [Journal](https://ieeexplore.ieee.org/document/8067693)
+
+   *S. Yousefi, H. Narui, S. Dayal, S. Ermon, S. Valaee*
+
+   
 
 ### [8.2 Wireless Imaging](#content)
 
+1. **See through Walls with WiFi!.** MobiCom, 2013. [Conference](https://dl.acm.org/doi/pdf/10.1145/2486001.2486039)
+
+   *A. Fadel, K. Dina*
+
+2. **Through-the-Wall Sensing of Personnel Using Passive Bistatic WiFi Radar at Standoff Distances.** IEEE TGRS, 2011. [Journal](https://ieeexplore.ieee.org/document/6020778)
+
+   *K. Chetty, G. E. Smith, K. Woodbridge*
+
+3. 
+
+   
+
+   
+
 ### [8.3 Health & Elder Care](#content)
 
-1. 
+1. **Assessment of Medication Self-administration using Artificial Intelligence.** Nature Med, 2021. [Magazine](https://www.nature.com/articles/s41591-021-01273-1.pdf)
 
-2. 
+   *M. Zhao, K. Hoti, H. Wang, A. Raghu, D. Katabi*
 
-3. **Exploiting WiFi Channel State Information for Residential Healthcare Informatics.** IEEE COMMAG, 2018. [Magazine](https://ieeexplore.ieee.org/document/8360863)
+2. **Vital-sign Monitoring and Spatial Tracking of Multiple People using a Contactless Radar-based Sensor.** Nature Electronics, 2019. [Magazine](https://www.nature.com/articles/s41928-019-0258-6)
+
+   *M. Mercuri, I. R. Lorato, Y-H. Liu, F. Wieringa, C. V. Hoof, T. Torfs*
+
+3. **Radar Signal Processing for Sensing in Assisted Living: The Challenges Associated With Real-Time Implementation of Emerging Algorithms.** IEEE SPM, 2019. [Magazine](https://ieeexplore.ieee.org/document/8746868)
+
+   *J.L. Kernec, F. Fioranelli, C. Ding, H. Zhao, L. Sun, H. Hong, J. Lorandel, O. Romain*
+
+4. **Exploiting WiFi Channel State Information for Residential Healthcare Informatics.** IEEE COMMAG, 2018. [Magazine](https://ieeexplore.ieee.org/document/8360863)
 
    *B. Tan, Q. Chen, K. Chetty, K. Woodbridge, W. Li, R. Piechocki*
 
-4. **Radar Signal Processing for Elderly Fall Detection: The Future for In-home Monitoring.** IEEE MSP, 2016. [Journal](https://ieeexplore.ieee.org/document/7421368)
+5. **Radar Signal Processing for Elderly Fall Detection: The Future for In-home Monitoring.** IEEE SPM, 2016. [Magazine](https://ieeexplore.ieee.org/document/7421368)
 
    *M. G. Amin, Y. D. Zhang, F. Ahmad, K. C. D. Ho*
+
+   
 
 ### [8.4. Control Flow](#content)
 
@@ -591,17 +825,15 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
    *S. Feng, S. Haykin*
 
-
-
 ## [9. Applications and Demonstrations](#content)
 
 ### [9.1 Environmental Monitoring](#content)
 
-1. **Environmental Monitoring by Wireless Communication Networks.** Science, 2006. [Journal](https://www.tau.ac.il/~pinhas/papers/2006/Messer_et_al_SCIENCE_2006.pdf)
+1. **Environmental Monitoring by Wireless Communication Networks.** Science, 2006. [Magazine](https://www.tau.ac.il/~pinhas/papers/2006/Messer_et_al_SCIENCE_2006.pdf)
 
    *H. Messer, A. Zinevich, P. Alpert*
 
-2. **Country-wide rainfall maps from cellular communication networks.** PNAS, 2013. [Journal](https://www.pnas.org/content/pnas/110/8/2741.full.pdf)
+2. **Country-wide rainfall maps from cellular communication networks.** PNAS, 2013. [Magazine](https://www.pnas.org/content/pnas/110/8/2741.full.pdf)
 
    *A. Overeem, H. Leijnse, R. Uijlenhoet*
 
@@ -615,23 +847,53 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
 ### [9.2 Multi-Functional Network](#content)
 
+1. **Vehicular RF Convergence: Simultaneous Radar, Communications, and PNT for Urban Air Mobility and Automotive Applications.** IEEE RadarConf, 2020. [Conference](https://ieeexplore.ieee.org/abstract/document/9266507)
+
+   *A. Herschfelt, A. Chiriyath, D. W. Bliss, C. D. Richmond, U. Mitra, S. D. Blunt*
+
+2. **Integrated Sensing, Computation and Communication in B5G Cellular Internet of Things.** IEEE TWC, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9206051)
+
+   *Q. Qi, X. Chen, C. Zhong, Z. Zhang*
+
+3. **Overview of Naval Multifunction RF Systems.** IEEE EURAD, 2018. [Conference](https://ieeexplore.ieee.org/document/8546521)
+
+   *P. W. Moo, D. J. DiFilippo*
+
+4. **The Advanced Multifunction RF Concept.** IEEE TMTT, 2005. [Journal](https://ieeexplore.ieee.org/document/1406306)
+
+   *G. C. Tavik et al.* 
+
+5. **Overview of Advanced Multifunction RF System (AMRFS).** IEEE PAST, 2002. [Conference](https://ieeexplore.ieee.org/document/858893)
+
+   *P. K. Hughes, J. Y. Choe* 
+
 ### [9.3 Remote Sensing](#content)
 
-### [9.4 Smart Home & City](#content)
+1. **Noncontact Vital Sign Detection With UAV-Borne Radars: An Overview of Recent Advances.** IEEE VTM, 2021. [Magazine](https://ieeexplore.ieee.org/abstract/document/9478877)
 
-### [9.5 Site-Specified Radio Map/Database](#content)
+   *Y. Rong, R. Gutierrez, K. V. Mishra, D. W. Bliss*
 
-1. **Toward Environment-Aware 6G Communications via Channel Knowledge Map.** IEEE WCM, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9373011)
+### [9.4 Site-Specified Radio Map/Database](#content)
+
+1. **Toward Environment-Aware 6G Communications via Channel Knowledge Map.** IEEE WCM, 2021. [Magazine](https://ieeexplore.ieee.org/abstract/document/9373011)
 
    *Y. Zeng, X. Xu*
 
-### [9.6 Simultaneous Localization and Mapping ](#content)
+### [9.5 Simultaneous Localization and Mapping ](#content)
 
 1. **Millimeter-wave Mobile Sensing and Environment Mapping: Models, Algorithms and Validation.** Arxiv, 2021. [Journal](https://arxiv.org/pdf/2102.11593.pdf)
 
    *C. B. Barneto, E. R. Foi, M. F. Keskin, T. Riihonen, M. Turunen, J. Talvitie, H. Wymeersch, M. Valkama*
 
+### [9.6 Security ](#content)
 
+1. **Secure Radar-Communication Systems With Malicious Targets: Integrating Radar, Communications and Jamming Functionalities.** IEEE TWC, 2020. [Journal](https://ieeexplore.ieee.org/abstract/document/9199556)
+
+   *N. Su, F. Liu, C. Masouros*
+
+2. **Secrecy Rate Optimizations for MIMO Communication Radar.** IEEE TAES, 2018. [Journal](https://ieeexplore.ieee.org/document/8327462)
+
+   *A. Deligiannis, A. Daniyan, S. Lambotharan, J. A. Chambers*
 
 ### [9.7 Demonstrations ](#content)
 
