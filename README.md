@@ -1,4 +1,4 @@
-# Must-Read Papers on Integrated Sensing and Communications (ISAC)
+# Must-Reading Papers on Integrated Sensing and Communications (ISAC)
 Other Terms : Joint Radar Communications (JRC)/ Joint Communication and Radar Sensing (JCS)
 
 Defination: A design paradigm and corresponding enabling technologies, in which sensing and comms systems are integrated to efﬁciently utilize congested wireless/hardware resources, and even to pursue mutual beneﬁts.
