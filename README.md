@@ -21,7 +21,7 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
 <tr><td colspan="2"><a href="#2-fundamental-theory-and-performance-analysis">2. Fundamental Theory and Performance Analysis</a></td></tr>
 <tr><td colspan="2"><a href="#3-signal-processing---communication-centric">3. Signal Processing - Communication Centric</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#31-standrized-waveform">3.1 Standrized Waveform</a></td>
+    <td>&emsp;<a href="#31-standardized-waveform">3.1 Standardized Waveform</a></td>
     <td>&ensp;<a href="#32-transceiver-design">3.2 Transceiver Design</a></td>
 </tr> 
   <tr>
@@ -258,13 +258,6 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
 
     *Q. Huang, Z. Luo, J. Zhang, W. Wang, Q. Zhang*
 
-1. **Intrapulse Radar-Embedded Communications.** IEEE TAES, 2010. [Journal](https://ieeexplore.ieee.org/document/5545182)
-
-    *S. D. Blunt, P. Yatham, J. Stiles*
-
-1. **Intrapulse Radar-embedded Communications Via Multiobjective Optimization.** IEEE TAES, 2015. [Journal](https://ieeexplore.ieee.org/document/7376230)
-
-    *D. Ciuonzo, A. De Maio, G. Foglia, M. Piezzo*
 
     
 
@@ -405,6 +398,14 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
 1. **Waveform Design and Accurate Channel Estimation for Frequency-Hopping MIMO Radar-Based Communications.** IEEE TCOM, 2020. [Journal](https://ieeexplore.ieee.org/document/9241739)
 
     *K. Wu, J. Andrew Zhang, X. Huang, Y. Jay Guo, R. W. Heath*
+
+1. **Intrapulse Radar-Embedded Communications.** IEEE TAES, 2010. [Journal](https://ieeexplore.ieee.org/document/5545182)
+
+    *S. D. Blunt, P. Yatham, J. Stiles*
+
+1. **Intrapulse Radar-embedded Communications Via Multiobjective Optimization.** IEEE TAES, 2015. [Journal](https://ieeexplore.ieee.org/document/7376230)
+
+    *D. Ciuonzo, A. De Maio, G. Foglia, M. Piezzo*
 
 1. **A Novel Radar Waveform Compatible with Communication.** ICST ICCPS, 2011. [Conference](https://ieeexplore.ieee.org/document/6092272)
 
