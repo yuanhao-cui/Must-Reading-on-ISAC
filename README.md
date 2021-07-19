@@ -42,18 +42,18 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
     <td>&emsp;<a href="#63-isac-networking">6.3 ISAC Networking</a></td>
 </tr> 
 <tr><td colspan="2"><a href="#7-specturm-sharing">7. Specturm Sharing</a></td></tr>
-<tr><td colspan="2"><a href="#8-mobile-computing---wireless-sensing">8. Mobile Computing - Wireless Sensing</a></td></tr> 
+<tr><td colspan="2"><a href="#8-mobile-computing---wifi-sensing">8. Mobile Computing - WiFi Sensing</a></td></tr> 
 <tr>
     <td>&emsp;<a href="#81-human-activity-recognition">8.1 Human Activity Recognition</a></td>
     <td>&ensp;<a href="#82-wireless-imaging">8.2 Wireless Imaging</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#83-health-and-elderly-care">8.3 Health and Elderly Care</a></td>
+    <td>&emsp;<a href="#83-health-elder-care">8.3 Health & Elder Care</a></td>
     <td>&emsp;<a href="#84-control-flow">8.4 Control Flow</a></td>
 </tr> 
    <tr><td colspan="2"><a href="#9-applications-and-demonstrations">9. Applications and Demonstrations</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#91-weather-monitoring">9.1 Weather Monitoring</a></td>
+    <td>&emsp;<a href="#91-environmental-monitoring">9.1 Environmental Monitoring</a></td>
     <td>&ensp;<a href="#92-multi-functional-network">9.2 Multi-Functional Network</a></td>
 </tr> 
 <tr>
@@ -737,7 +737,7 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
       
       
 
-## [8. Mobile Computing - Wireless Sensing](#8)
+## [8. Mobile Computing - WiFi Sensing](#8)
 
 ### [8.1 Human Activity Recognition](#8.1)
 
@@ -779,27 +779,6 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
 
 
 
-### [8.3 Health & Elder Care](#8.3)
-
-1. **Assessment of Medication Self-administration using Artificial Intelligence.** Nature Med, 2021. [Magazine](https://www.nature.com/articles/s41591-021-01273-1.pdf)
-
-   *M. Zhao, K. Hoti, H. Wang, A. Raghu, D. Katabi*
-
-2. **Vital-sign Monitoring and Spatial Tracking of Multiple People using a Contactless Radar-based Sensor.** Nature Electronics, 2019. [Magazine](https://www.nature.com/articles/s41928-019-0258-6)
-
-   *M. Mercuri, I. R. Lorato, Y-H. Liu, F. Wieringa, C. V. Hoof, T. Torfs*
-
-3. **Radar Signal Processing for Sensing in Assisted Living: The Challenges Associated With Real-Time Implementation of Emerging Algorithms.** IEEE SPM, 2019. [Magazine](https://ieeexplore.ieee.org/document/8746868)
-
-   *J.L. Kernec, F. Fioranelli, C. Ding, H. Zhao, L. Sun, H. Hong, J. Lorandel, O. Romain*
-
-4. **Exploiting WiFi Channel State Information for Residential Healthcare Informatics.** IEEE COMMAG, 2018. [Magazine](https://ieeexplore.ieee.org/document/8360863)
-
-   *B. Tan, Q. Chen, K. Chetty, K. Woodbridge, W. Li, R. Piechocki*
-
-5. **Radar Signal Processing for Elderly Fall Detection: The Future for In-home Monitoring.** IEEE SPM, 2016. [Magazine](https://ieeexplore.ieee.org/document/7421368)
-
-   *M. G. Amin, Y. D. Zhang, F. Ahmad, K. C. D. Ho*
 
 
 
@@ -832,7 +811,6 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
    *H. V. Habi, H. Messer*
 
 
-
 ### [9.2 Multi-Functional Network](#9.2)
 
 1. **Vehicular RF Convergence: Simultaneous Radar, Communications, and PNT for Urban Air Mobility and Automotive Applications.** IEEE RadarConf, 2020. [Conference](https://ieeexplore.ieee.org/abstract/document/9266507)
@@ -855,9 +833,31 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
 
    *P. K. Hughes, J. Y. Choe* 
    
+
+### [9.3 Health & Elder Care](#8.3)
+
+1. **Assessment of Medication Self-administration using Artificial Intelligence.** Nature Med, 2021. [Magazine](https://www.nature.com/articles/s41591-021-01273-1.pdf)
+
+   *M. Zhao, K. Hoti, H. Wang, A. Raghu, D. Katabi*
+
+2. **Vital-sign Monitoring and Spatial Tracking of Multiple People using a Contactless Radar-based Sensor.** Nature Electronics, 2019. [Magazine](https://www.nature.com/articles/s41928-019-0258-6)
+
+   *M. Mercuri, I. R. Lorato, Y-H. Liu, F. Wieringa, C. V. Hoof, T. Torfs*
+
+3. **Radar Signal Processing for Sensing in Assisted Living: The Challenges Associated With Real-Time Implementation of Emerging Algorithms.** IEEE SPM, 2019. [Magazine](https://ieeexplore.ieee.org/document/8746868)
+
+   *J.L. Kernec, F. Fioranelli, C. Ding, H. Zhao, L. Sun, H. Hong, J. Lorandel, O. Romain*
+
+4. **Exploiting WiFi Channel State Information for Residential Healthcare Informatics.** IEEE COMMAG, 2018. [Magazine](https://ieeexplore.ieee.org/document/8360863)
+
+   *B. Tan, Q. Chen, K. Chetty, K. Woodbridge, W. Li, R. Piechocki*
+
+5. **Radar Signal Processing for Elderly Fall Detection: The Future for In-home Monitoring.** IEEE SPM, 2016. [Magazine](https://ieeexplore.ieee.org/document/7421368)
+
+   *M. G. Amin, Y. D. Zhang, F. Ahmad, K. C. D. Ho*  
    
 
-### [9.3 Remote Sensing](#9.3)
+### [9.4 Remote Sensing](#9.3)
 
 1. **Noncontact Vital Sign Detection With UAV-Borne Radars: An Overview of Recent Advances.** IEEE VTM, 2021. [Magazine](https://ieeexplore.ieee.org/abstract/document/9478877)
 
@@ -870,7 +870,7 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
 
 
 
-### [9.4 Site-Specified Radio Map/Database](#9.4)
+### [9.5 Site-Specified Radio Map/Database](#9.4)
 
 1. **Toward Environment-Aware 6G Communications via Channel Knowledge Map.** IEEE WCM, 2021. [Magazine](https://ieeexplore.ieee.org/abstract/document/9373011)
 
@@ -878,7 +878,7 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
 
 
 
-### [9.5 Simultaneous Localization and Mapping ](#9.5)
+### [9.6 Simultaneous Localization and Mapping ](#9.5)
 
 1. **Millimeter-wave Mobile Sensing and Environment Mapping: Models, Algorithms and Validation.** Arxiv, 2021. [Journal](https://arxiv.org/pdf/2102.11593.pdf)
 
@@ -886,7 +886,7 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
 
 
 
-### [9.6 Security ](#9.6)
+### [9.7 Security ](#9.6)
 
 1. **Secure Radar-Communication Systems With Malicious Targets: Integrating Radar, Communications and Jamming Functionalities.** IEEE TWC, 2020. [Journal](https://ieeexplore.ieee.org/abstract/document/9199556)
 
@@ -898,7 +898,7 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
 
 
 
-### [9.7 Demonstrations ](#9.7)
+### [9.8 Demonstrations ](#9.7)
 
 1. **First Demonstration of Joint Wireless Communication and High-Resolution SAR Imaging Using Airborne MIMO Radar System.** IEEE TGRS, 2019. [Journal](https://ieeexplore.ieee.org/document/8718390)
 
