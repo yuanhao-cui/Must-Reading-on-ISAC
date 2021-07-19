@@ -25,47 +25,47 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
     <td>&ensp;<a href="#32-transceiver-design">3.2 Transceiver Design</a></td>
 </tr> 
   <tr>
-    <td>&emsp;<a href="#3.3">3.3 Infrastracture Enhancement </a></td>
-    <td>&emsp;<a href="#3.4">3.4 Resource Management </a></td>
-<tr><td colspan="2"><a href="#4">4. Signal Processing - Sensing Centric </a></td></tr> 
+    <td>&emsp;<a href="#33-infrastracture-enhancement">3.3 Infrastracture Enhancement</a></td>
+    <td>&emsp;<a href="#34-resource-management">3.4 Resource Management</a></td>
+<tr><td colspan="2"><a href="#4-signal-processing---sensing-centric">4. Signal Processing - Sensing Centric</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#4.1">4.1 Waveform Design</a></td>
-    <td>&ensp;<a href="#4.2">4.2 Sensing Data Processing</a></td>
+    <td>&emsp;<a href="#41-waveform-design">4.1 Waveform Design</a></td>
+    <td>&ensp;<a href="#42-sensing-data-processing">4.2 Sensing Data Processing</a></td>
 </tr>
-<tr><td colspan="2"><a href="#5">5. Signal Processing - Joint Design </a></td></tr> 
-<tr><td colspan="2"><a href="#6">6. Networking </a></td></tr>
+<tr><td colspan="2"><a href="#5-signal-processing---joint-design">5. Signal Processing - Joint Design</a></td></tr> 
+<tr><td colspan="2"><a href="#6-networking">6. Networking</a></td></tr>
   <tr>
-    <td>&emsp;<a href="#6.1">6.1 Radar Networking </a></td>
-    <td>&ensp;<a href="#6.2">6.2 Sensor Networking </a></td>
+    <td>&emsp;<a href="#61-radar-networking">6.1 Radar Networking</a></td>
+    <td>&ensp;<a href="#62-sensor-networking">6.2 Sensor Networking</a></td>
 </tr> 
     <tr>
-    <td>&emsp;<a href="#6.1">6.3 ISAC Networking </a></td>
+    <td>&emsp;<a href="#63-isac-networking">6.3 ISAC Networking</a></td>
 </tr> 
-<tr><td colspan="2"><a href="#7">7. Specturm Sharing </a></td></tr>
-<tr><td colspan="2"><a href="#8">8. Mobile Computing - Wireless Sensing </a></td></tr> 
+<tr><td colspan="2"><a href="#7-specturm-sharing">7. Specturm Sharing</a></td></tr>
+<tr><td colspan="2"><a href="#8-mobile-computing---wireless-sensing">8. Mobile Computing - Wireless Sensing</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#8.1">8.1 Human Activity Recognition</a></td>
-    <td>&ensp;<a href="#8.2">8.2 Wireless Imaging</a></td>
-</tr> 
-<tr>
-    <td>&emsp;<a href="#8.3">8.3 Health and Elderly Care</a></td>
-    <td>&emsp;<a href="#8.4">8.4 Control Flow</a></td>
-</tr> 
-   <tr><td colspan="2"><a href="#9">9. Applications and Demonstrations </a></td></tr> 
-<tr>
-    <td>&emsp;<a href="#9.1">9.1 Weather Monitoring</a></td>
-    <td>&ensp;<a href="#9.2">9.2 Multi-Functional Network</a></td>
+    <td>&emsp;<a href="#81-human-activity-recognition">8.1 Human Activity Recognition</a></td>
+    <td>&ensp;<a href="#82-wireless-imaging">8.2 Wireless Imaging</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#9.3">9.3 Remote Sensing</a></td>
-    <td>&ensp;<a href="#9.4">9.4 Site-Specified Radio Map/Database</a></td>
+    <td>&emsp;<a href="#83-health-and-elderly-care">8.3 Health and Elderly Care</a></td>
+    <td>&emsp;<a href="#84-control-flow">8.4 Control Flow</a></td>
+</tr> 
+   <tr><td colspan="2"><a href="#9-applications-and-demonstrations">9. Applications and Demonstrations</a></td></tr> 
+<tr>
+    <td>&emsp;<a href="#91-weather-monitoring">9.1 Weather Monitoring</a></td>
+    <td>&ensp;<a href="#92-multi-functional-network">9.2 Multi-Functional Network</a></td>
+</tr> 
+<tr>
+    <td>&emsp;<a href="#93-remote-sensing">9.3 Remote Sensing</a></td>
+    <td>&ensp;<a href="#94-site-specified-radio-map-database">9.4 Site-Specified Radio Map/Database</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#8.5">9.5 Simultaneous Localization and Mapping</a></td>
-    <td>&ensp;<a href="#8.6">9.6 Security</a></td>
+    <td>&emsp;<a href="#95-simultaneous-localization-and-mapping">9.5 Simultaneous Localization and Mapping</a></td>
+    <td>&ensp;<a href="#96-security">9.6 Security</a></td>
 </tr>
   <tr>
-    <td>&emsp;<a href="#8.7">9.7 Demonstration</a></td>
+    <td>&emsp;<a href="#97-demonstration">9.7 Demonstration</a></td>
 </tr>
 </table>
 
