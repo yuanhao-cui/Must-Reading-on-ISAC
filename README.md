@@ -48,7 +48,7 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
     <td>&ensp;<a href="#7.2">7.2 Wireless Imaging</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#7.3">7.3 Health and Elder Care</a></td>
+    <td>&emsp;<a href="#7.3">7.3 Health and Elderly Care</a></td>
     <td>&emsp;<a href="#7.4">7.4 Control Flow</a></td>
 </tr> 
    <tr><td colspan="2"><a href="#8">8. Applications and Demonstrations </a></td></tr> 
