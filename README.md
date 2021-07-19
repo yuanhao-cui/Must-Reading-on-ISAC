@@ -80,7 +80,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
     *Y. Cui, F. Liu, X. Jing, J. Mu* 
 
-1. **Joint Radar and Communication Design: Applications, State-of-the-Art, and the Road Ahead.** IEEE TCOM, 2020. [Journal](https://ieeexplore.ieee.org/document/8999605). 
+1. **Joint Radar and Communication Design: Applications, State-of-the-Art, and the Road Ahead.** IEEE TCOM, 2020. [Journal](https://ieeexplore.ieee.org/document/8999605). [code](https://github.com/njraymondi1/Joint_Radar_Comms/blob/master/Fan_DFRC.m)
 
     *F. Liu, C. Masouros, A. P. Petropulu, H. Griffiths, L. Hanzo*
 
@@ -328,7 +328,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 ### [3.4 Resource/Interference Management](#3.4)
 
-1. **MU-MIMO Communications With MIMO Radar: From Co-Existence to Joint Transmission.** IEEE TWC, 2018. [Journal](https://ieeexplore.ieee.org/document/8288677)
+1. **MU-MIMO Communications With MIMO Radar: From Co-Existence to Joint Transmission.** IEEE TWC, 2018. [Journal](https://ieeexplore.ieee.org/document/8288677) [code](https://github.com/njraymondi1/Joint_Radar_Comms/blob/master/SeparatedDeployment_BPmatching.m)
 
     *F. Liu, C. Masouros, A. Li, H. Sun, L. Hanzo*
 
