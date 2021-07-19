@@ -285,7 +285,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 1. **Hybrid Beamforming for Multi-carrier Dual-Function Radar-Communication System.** IEEE TCCN, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9366836)
 
-    *Z. Cheng, Z. He, B. Lia
+    *Z. Cheng, Z. He, B. Lia*
 
 1. **Multifunctional Transceiver for Future Intelligent Transportation Systems.** IEEE TMTT, 2011. [Journal](https://ieeexplore.ieee.org/document/5759762)
 
@@ -306,7 +306,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 3. **Radar-assisted Predictive Beamforming for Vehicular Links: Communication Served by Sensing.** IEEE TWC, 2021. [Journal](https://ieeexplore.ieee.org/document/9171304)
 
-   *Liu, F., Yuan, W., Masouros, C., & Yuan, J.*
+   *F. Liu, W. Yuan, C. Masouros, J. Yuan*
 
 4. **Bayesian Predictive Beamforming for Vehicular Networks: A Low-Overhead Joint Radar-Communication Approach.** IEEE TWC, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9246715)
 
@@ -748,7 +748,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 2. **WiFall: Device-Free Fall Detection by Wireless Networks.** IEEE TMC, 2016. [Journal](https://ieeexplore.ieee.org/document/7458186)
 
-   *Y. Wang, K. Wu, L. M. Ni *
+   *Y. Wang, K. Wu, L. M. Ni*
 
 3. **Recognizing Keystrokes Using WiFi Devices.** IEEE JSAC, 2017. [Journal](https://ieeexplore.ieee.org/document/7875144)
 
