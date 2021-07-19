@@ -900,6 +900,10 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
 
     *D. Ciuonzo, A. De Maio, G. Foglia, M. Piezzo*
 
+5. **On Radar Privacy in Shared Spectrum Scenarios.** IEEE ICASSP, 2019. [Conference](https://ieeexplore.ieee.org/document/8682745)
+
+    *A. Dimas, M. A. Clark, B. Li, K. Psounis, A. P. Petropulu*
+
 ### [9.8 Demonstrations ](#9.7)
 
 1. **First Demonstration of Joint Wireless Communication and High-Resolution SAR Imaging Using Airborne MIMO Radar System.** IEEE TGRS, 2019. [Journal](https://ieeexplore.ieee.org/document/8718390)
