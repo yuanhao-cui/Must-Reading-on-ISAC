@@ -13,7 +13,7 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
 <tr><td colspan="2"><a href="#1-surveys-and-tutorial">1. Surveys and Tutorials</a></td></tr> 
   <tr>
     <td>&emsp;<a href="#11-basic-concept">1.1 Basic Concept</a></td>
-    <td>&ensp;<a href="#1.2">1.2 Signal Processing </a></td>
+    <td>&ensp;<a href="#12-signal-processing">1.2 Signal Processing </a></td>
 </tr> 
   <tr>
     <td>&emsp;<a href="#1.3">1.3 Communication and Networking </a></td>
