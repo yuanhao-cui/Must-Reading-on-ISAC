@@ -910,19 +910,19 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 ### [9.8 Demonstrations ](#9.7)
 
+1. **JCR70: A Low-Complexity Millimeter-Wave Proof-of-Concept Platform for A Fully-Digital MIMO Joint Communication-Radar.** IEEE OJVT, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9392306)
+
+   *P. Kumari, A. Mezghani, R. W. Heath Jr*
+
+1. **Simultaneous Radar and Communications Emissions from a Common Aperture, Part I,II.** IEEE RadarConf, 2017. [Conference](https://ieeexplore.ieee.org/document/7944478), [Conference](https://ieeexplore.ieee.org/abstract/document/7944480)
+
+   *P. M. McCormick, S. D. Blunt, J. G. Metcalf*
+   
 1. **First Demonstration of Joint Wireless Communication and High-Resolution SAR Imaging Using Airborne MIMO Radar System.** IEEE TGRS, 2019. [Journal](https://ieeexplore.ieee.org/document/8718390)
 
    *J. Wang, X. Liang, L. Chen, L. Wang, K. Li*
 
-2. **JCR70: A Low-Complexity Millimeter-Wave Proof-of-Concept Platform for A Fully-Digital MIMO Joint Communication-Radar.** IEEE OJVT, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9392306)
-
-   *P. Kumari, A. Mezghani, R. W. Heath Jr*
-
-3. **Simultaneous Radar and Communications Emissions from a Common Aperture, Part I,II.** IEEE RadarConf, 2017. [Conference](https://ieeexplore.ieee.org/document/7944478), [Conference](https://ieeexplore.ieee.org/abstract/document/7944480)
-
-   *P. M. McCormick, S. D. Blunt, J. G. Metcalf*
-
-4. **Sensing and Communication Integrated System for Autonomous Driving Vehicles.** IEEE InfocomWorkshop, 2020. [Conference](https://ieeexplore.ieee.org/document/9162963)
+1. **Sensing and Communication Integrated System for Autonomous Driving Vehicles.** IEEE InfocomWorkshop, 2020. [Conference](https://ieeexplore.ieee.org/document/9162963)
 
    *Q. Zhang, H. Sun, Z. Wei, Z. Feng*
 
