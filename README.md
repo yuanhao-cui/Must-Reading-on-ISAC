@@ -56,7 +56,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
     <td>&ensp;<a href="#92-multi-functional-network">9.2 Multi-Functional Network</a></td>
 </tr> 
 <tr>
-     <td>&emsp;<a href="#93-health-elder-care">9.3 Health & Elder Care</a></td>
+     <td>&emsp;<a href="#93-health-elder-care">9.3 Health & Elderly Care</a></td>
     <td>&emsp;<a href="#94-remote-sensing">9.4 Remote Sensing</a></td>
 </tr>
 <tr>
