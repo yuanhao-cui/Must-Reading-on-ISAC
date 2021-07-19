@@ -563,7 +563,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 ## [6. Networking](#6)
 
-### [6.1 Distributed Radar /Netted Radar /Multistatic Radar Networking](#6.1)
+### [6.1 Radar Networking](#6.1)
 
 1. **Evolution of Netted Radar Systems.** IEEE Access, 2020. [Journal](https://ieeexplore.ieee.org/abstract/document/9134443)
 
