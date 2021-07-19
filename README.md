@@ -45,7 +45,7 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 <tr><td colspan="2"><a href="#8">8. Mobile Computing - Wireless Sensing </a></td></tr> 
 <tr>
     <td>&emsp;<a href="#8.1">8.1 Human Activity Recognition</a></td>
-    <td>&ensp;<a href="#8.2">7.2 Wireless Imaging</a></td>
+    <td>&ensp;<a href="#8.2">8.2 Wireless Imaging</a></td>
 </tr> 
 <tr>
     <td>&emsp;<a href="#8.3">8.3 Health and Elderly Care</a></td>
