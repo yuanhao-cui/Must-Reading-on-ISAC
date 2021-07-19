@@ -813,19 +813,23 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
    *A. Herschfelt, A. Chiriyath, D. W. Bliss, C. D. Richmond, U. Mitra, S. D. Blunt*
 
-2. **Integrated Sensing, Computation and Communication in B5G Cellular Internet of Things.** IEEE TWC, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9206051)
+2. **Convergent Communication, Sensing and Localization in 6G Systems: An Overview of Technologies, Opportunities and Challenges.** IEEE ACESS, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9330512)
+
+   *C. De Lima et al.*
+   
+3. **Integrated Sensing, Computation and Communication in B5G Cellular Internet of Things.** IEEE TWC, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9206051)
 
    *Q. Qi, X. Chen, C. Zhong, Z. Zhang*
 
-3. **Overview of Naval Multifunction RF Systems.** IEEE EURAD, 2018. [Conference](https://ieeexplore.ieee.org/document/8546521)
+4. **Overview of Naval Multifunction RF Systems.** IEEE EURAD, 2018. [Conference](https://ieeexplore.ieee.org/document/8546521)
 
    *P. W. Moo, D. J. DiFilippo*
 
-4. **The Advanced Multifunction RF Concept.** IEEE TMTT, 2005. [Journal](https://ieeexplore.ieee.org/document/1406306)
+5. **The Advanced Multifunction RF Concept.** IEEE TMTT, 2005. [Journal](https://ieeexplore.ieee.org/document/1406306)
 
    *G. C. Tavik et al.* 
 
-5. **Overview of Advanced Multifunction RF System (AMRFS).** IEEE PAST, 2002. [Conference](https://ieeexplore.ieee.org/document/858893)
+6. **Overview of Advanced Multifunction RF System (AMRFS).** IEEE PAST, 2002. [Conference](https://ieeexplore.ieee.org/document/858893)
 
    *P. K. Hughes, J. Y. Choe* 
    
