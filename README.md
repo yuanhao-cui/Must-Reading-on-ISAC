@@ -33,13 +33,6 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
     <td>&ensp;<a href="#4.2">4.2 Sensing Data Processing</a></td>
 </tr>
 <tr><td colspan="2"><a href="#5">5. Signal Processing - Joint Design </a></td></tr> 
-<tr>
-    <td>&emsp;<a href="#5.1">5.1 Fully Unified Waveform</a></td>
-    <td>&ensp;<a href="#5.2">5.2 Communication-aided Sensing </a></td>
-</tr> 
-<tr>
-    <td>&emsp;<a href="#5.3">5.3 Sensing-aided Communications</a></td>
-</tr> 
 <tr><td colspan="2"><a href="#6">6. Networking </a></td></tr>
   <tr>
     <td>&emsp;<a href="#6.1">6.1 Radar Networking </a></td>
