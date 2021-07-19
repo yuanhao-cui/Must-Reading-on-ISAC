@@ -240,7 +240,7 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
 
 ## [3. Signal Processing - Communication Centric](#3)  
 
-### [3.1 Standrized Waveform](#3.1)
+### [3.1 Standardized Waveform](#3.1)
 
 1. **IEEE 802.11ad-Based Radar: An Approach to Joint Vehicular Communication-Radar System.** IEEE TVT, 2017. [Journal](https://ieeexplore.ieee.org/document/8114253)
 
