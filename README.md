@@ -771,7 +771,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 1. **See through Walls with WiFi!.** MobiCom, 2013. [Conference](https://dl.acm.org/doi/pdf/10.1145/2486001.2486039)
 
-   *A. Fadel, K. Dina*
+   *A. Fadel, D. Katabi*
 
 2. **Through-the-Wall Sensing of Personnel Using Passive Bistatic WiFi Radar at Standoff Distances.** IEEE TGRS, 2011. [Journal](https://ieeexplore.ieee.org/document/6020778)
 
