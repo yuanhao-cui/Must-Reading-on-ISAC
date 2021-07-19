@@ -51,21 +51,21 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
     <td>&emsp;<a href="#7.3">7.3 Health and Elderly Care</a></td>
     <td>&emsp;<a href="#7.4">7.4 Control Flow</a></td>
 </tr> 
-   <tr><td colspan="2"><a href="#8">8. Applications and Demonstrations </a></td></tr> 
+   <tr><td colspan="2"><a href="#9">9. Applications and Demonstrations </a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#8.1">8.1 Weather Monitoring</a></td>
-    <td>&ensp;<a href="#8.2">8.2 Multi-Functional Network</a></td>
+    <td>&emsp;<a href="#9.1">9.1 Weather Monitoring</a></td>
+    <td>&ensp;<a href="#9.2">9.2 Multi-Functional Network</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#8.3">8.3 Remote Sensing</a></td>
-    <td>&ensp;<a href="#8.4">8.4 Site-Specified Radio Map/Database</a></td>
+    <td>&emsp;<a href="#9.3">9.3 Remote Sensing</a></td>
+    <td>&ensp;<a href="#9.4">9.4 Site-Specified Radio Map/Database</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#8.5">8.5 Simultaneous Localization and Mapping</a></td>
-    <td>&ensp;<a href="#8.6">8.6 Security</a></td>
+    <td>&emsp;<a href="#8.5">9.5 Simultaneous Localization and Mapping</a></td>
+    <td>&ensp;<a href="#8.6">9.6 Security</a></td>
 </tr>
   <tr>
-    <td>&emsp;<a href="#8.7">8.7 Demonstration</a></td>
+    <td>&emsp;<a href="#8.7">9.7 Demonstration</a></td>
 </tr>
 </table>
 
