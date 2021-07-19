@@ -48,8 +48,7 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
     <td>&ensp;<a href="#82-wireless-imaging">8.2 Wireless Imaging</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#83-health-elder-care">8.3 Health & Elder Care</a></td>
-    <td>&emsp;<a href="#84-control-flow">8.4 Control Flow</a></td>
+    <td>&emsp;<a href="#83-control-flow">8.3 Control Flow</a></td>
 </tr> 
    <tr><td colspan="2"><a href="#9-applications-and-demonstrations">9. Applications and Demonstrations</a></td></tr> 
 <tr>
@@ -57,15 +56,16 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
     <td>&ensp;<a href="#92-multi-functional-network">9.2 Multi-Functional Network</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#93-remote-sensing">9.3 Remote Sensing</a></td>
-    <td>&ensp;<a href="#94-site-specified-radio-map-database">9.4 Site-Specified Radio Map/Database</a></td>
+     <td>&emsp;<a href="#93-health-elder-care">9.3 Health & Elder Care</a></td>
+    <td>&emsp;<a href="#94-remote-sensing">9.4 Remote Sensing</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#95-simultaneous-localization-and-mapping">9.5 Simultaneous Localization and Mapping</a></td>
-    <td>&ensp;<a href="#96-security">9.6 Security</a></td>
+    <td>&ensp;<a href="#95-site-specified-radio-map-database">9.5 Site-Specified Radio Map/Database</a></td>
+    <td>&emsp;<a href="#96-simultaneous-localization-and-mapping">9.6 Simultaneous Localization and Mapping</a></td>
 </tr>
   <tr>
-    <td>&emsp;<a href="#97-demonstration">9.7 Demonstration</a></td>
+     <td>&ensp;<a href="#97-security">9.7 Security</a></td>
+    <td>&emsp;<a href="#98-demonstration">9.8 Demonstration</a></td>
 </tr>
 </table>
 
@@ -735,7 +735,7 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
 
 </details>
       
-      
+  
 
 ## [8. Mobile Computing - WiFi Sensing](#8)
 
@@ -766,7 +766,6 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
    *S. Yousefi, H. Narui, S. Dayal, S. Ermon, S. Valaee*
 
 
-
 ### [8.2 Wireless Imaging](#8.2)
 
 1. **See through Walls with WiFi!.** MobiCom, 2013. [Conference](https://dl.acm.org/doi/pdf/10.1145/2486001.2486039)
@@ -779,15 +778,11 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
 
 
 
-
-
-
-### [8.4. Control Flow](#8.4)
+### [8.3. Control Flow](#8.4)
 
 1. **Coordinated Cognitive Risk Control for Bridging Vehicular Radar and Communication Systems.** IEEE TITS, 2020. [Journal](https://ieeexplore.ieee.org/document/9292428)
 
    *S. Feng, S. Haykin*
-
 
 
 ## [9. Applications and Demonstrations](#9)
