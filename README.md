@@ -5,7 +5,7 @@ Definition: A design paradigm and corresponding enabling technologies, in which 
 
 Contributed by Yuanhao Cui, BUPT, and Fan Liu, SUSTech
 
-from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Technical Working Group (TWG)
+Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Technical Working Group (TWG)
 
 ## [Content](#content)
 
