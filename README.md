@@ -912,7 +912,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 2. **JCR70: A Low-Complexity Millimeter-Wave Proof-of-Concept Platform for A Fully-Digital MIMO Joint Communication-Radar.** IEEE OJVT, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9392306)
 
-   *Kumari, P., et al.*
+   *P. Kumari, A. Mezghani, R. W. Heath Jr*
 
 3. **Simultaneous Radar and Communications Emissions from a Common Aperture, Part I,II.** IEEE RadarConf, 2017. [Conference](https://ieeexplore.ieee.org/document/7944478), [Conference](https://ieeexplore.ieee.org/abstract/document/7944480)
 
