@@ -64,7 +64,7 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
     <td>&emsp;<a href="#96-simultaneous-localization-and-mapping">9.6 Simultaneous Localization and Mapping</a></td>
 </tr>
   <tr>
-     <td>&ensp;<a href="#97-security-and-privacy">9.7 Security and Privacy</a></td>
+     <td>&ensp;<a href="#97-security and privacy">9.7 Security and Privacy</a></td>
     <td>&emsp;<a href="#98-demonstration">9.8 Demonstration</a></td>
 </tr>
 </table>
@@ -398,6 +398,14 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
 1. **Waveform Design and Accurate Channel Estimation for Frequency-Hopping MIMO Radar-Based Communications.** IEEE TCOM, 2020. [Journal](https://ieeexplore.ieee.org/document/9241739)
 
     *K. Wu, J. Andrew Zhang, X. Huang, Y. Jay Guo, R. W. Heath*
+
+1. **Intrapulse Radar-Embedded Communications.** IEEE TAES, 2010. [Journal](https://ieeexplore.ieee.org/document/5545182)
+
+    *S. D. Blunt, P. Yatham, J. Stiles*
+
+1. **Intrapulse Radar-embedded Communications Via Multiobjective Optimization.** IEEE TAES, 2015. [Journal](https://ieeexplore.ieee.org/document/7376230)
+
+    *D. Ciuonzo, A. De Maio, G. Foglia, M. Piezzo*
 
 1. **A Novel Radar Waveform Compatible with Communication.** ICST ICCPS, 2011. [Conference](https://ieeexplore.ieee.org/document/6092272)
 
@@ -879,20 +887,18 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
 1. **Secure Radar-Communication Systems With Malicious Targets: Integrating Radar, Communications and Jamming Functionalities.** IEEE TWC, 2020. [Journal](https://ieeexplore.ieee.org/abstract/document/9199556)
 
    *N. Su, F. Liu, C. Masouros*
-   
-1. **Intrapulse Radar-Embedded Communications.** IEEE TAES, 2010. [Journal](https://ieeexplore.ieee.org/document/5545182)
 
-    *S. D. Blunt, P. Yatham, J. Stiles*
-
-1. **Intrapulse Radar-embedded Communications Via Multiobjective Optimization.** IEEE TAES, 2015. [Journal](https://ieeexplore.ieee.org/document/7376230)
-
-    *D. Ciuonzo, A. De Maio, G. Foglia, M. Piezzo*
-
-1. **Secrecy Rate Optimizations for MIMO Communication Radar.** IEEE TAES, 2018. [Journal](https://ieeexplore.ieee.org/document/8327462)
+2. **Secrecy Rate Optimizations for MIMO Communication Radar.** IEEE TAES, 2018. [Journal](https://ieeexplore.ieee.org/document/8327462)
 
    *A. Deligiannis, A. Daniyan, S. Lambotharan, J. A. Chambers*
 
+3. **Intrapulse Radar-Embedded Communications.** IEEE TAES, 2010. [Journal](https://ieeexplore.ieee.org/document/5545182)
 
+    *S. D. Blunt, P. Yatham, J. Stiles*
+
+4. **Intrapulse Radar-embedded Communications Via Multiobjective Optimization.** IEEE TAES, 2015. [Journal](https://ieeexplore.ieee.org/document/7376230)
+
+    *D. Ciuonzo, A. De Maio, G. Foglia, M. Piezzo*
 
 ### [9.8 Demonstrations ](#9.7)
 
