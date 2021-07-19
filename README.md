@@ -19,7 +19,7 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
     <td>&emsp;<a href="#13-communication-and-networking">1.3 Communication and Networking</a></td>
     <td>&emsp;<a href="#14-mobile-computing">1.4 Mobile Computing</a></td>
 <tr><td colspan="2"><a href="#2-fundamental-theory-and-performance-analysis">2. Fundamental Theory and Performance Analysis</a></td></tr>
-<tr><td colspan="2"><a href="#3-signal-processing-communication-centric">3. Signal Processing - Communication Centric</a></td></tr> 
+<tr><td colspan="2"><a href="#3-signal-processing---communication-centric">3. Signal Processing - Communication Centric</a></td></tr> 
 <tr>
     <td>&emsp;<a href="#31-standrized-waveform">3.1 Standrized Waveform</a></td>
     <td>&ensp;<a href="#32-transceiver-design">3.2 Transceiver Design</a></td>
