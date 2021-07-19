@@ -243,7 +243,6 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
     *P. Bidigare* 
     
-1. 
 
 
 
@@ -748,8 +747,10 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
       *H. Deng, B. Himed*
 
-      ```HTML
       </details>
+      
+      ```HTML
+      
       ```
 
 
@@ -781,7 +782,10 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
    *S. Yousefi, H. Narui, S. Dayal, S. Ermon, S. Valaee*
 
-   
+
+
+
+
 
 ### [8.2 Wireless Imaging](#content)
 
@@ -793,7 +797,9 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
    *K. Chetty, G. E. Smith, K. Woodbridge*
 
-   
+
+
+
 
 
 ### [8.3 Health & Elder Care](#content)
@@ -818,15 +824,20 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
    *M. G. Amin, Y. D. Zhang, F. Ahmad, K. C. D. Ho*
 
-   
+
+
+
+
 
 ### [8.4. Control Flow](#content)
 
 1. **Coordinated Cognitive Risk Control for Bridging Vehicular Radar and Communication Systems.** IEEE TITS, 2020. [Journal](https://ieeexplore.ieee.org/document/9292428)
 
    *S. Feng, S. Haykin*
-   
-   
+
+
+
+
 
 ## [9. Applications and Demonstrations](#content)
 
@@ -847,8 +858,10 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 4. **Recurrent Neural Network for Rain Estimation Using Commercial Microwave Links.** IEEE TGRS, 2020. [Journal](https://ieeexplore.ieee.org/document/9153027?denied=)
 
    *H. V. Habi, H. Messer*
-   
-   
+
+
+
+
 
 ### [9.2 Multi-Functional Network](#content)
 
@@ -874,6 +887,8 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
    
    
 
+
+
 ### [9.3 Remote Sensing](#content)
 
 1. **Noncontact Vital Sign Detection With UAV-Borne Radars: An Overview of Recent Advances.** IEEE VTM, 2021. [Magazine](https://ieeexplore.ieee.org/abstract/document/9478877)
@@ -884,7 +899,9 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
    *J. Wang, X. Liang, L. Chen, L. Wang, K. Li*
 
-   
+
+
+
 
 
 ### [9.4 Site-Specified Radio Map/Database](#content)
@@ -892,16 +909,20 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 1. **Toward Environment-Aware 6G Communications via Channel Knowledge Map.** IEEE WCM, 2021. [Magazine](https://ieeexplore.ieee.org/abstract/document/9373011)
 
    *Y. Zeng, X. Xu*
-   
-   
+
+
+
+
 
 ### [9.5 Simultaneous Localization and Mapping ](#content)
 
 1. **Millimeter-wave Mobile Sensing and Environment Mapping: Models, Algorithms and Validation.** Arxiv, 2021. [Journal](https://arxiv.org/pdf/2102.11593.pdf)
 
    *C. B. Barneto, E. R. Foi, M. F. Keskin, T. Riihonen, M. Turunen, J. Talvitie, H. Wymeersch, M. Valkama*
-   
-   
+
+
+
+
 
 ### [9.6 Security ](#content)
 
@@ -912,8 +933,10 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 2. **Secrecy Rate Optimizations for MIMO Communication Radar.** IEEE TAES, 2018. [Journal](https://ieeexplore.ieee.org/document/8327462)
 
    *A. Deligiannis, A. Daniyan, S. Lambotharan, J. A. Chambers*
-   
-   
+
+
+
+
 
 ### [9.7 Demonstrations ](#content)
 
