@@ -132,7 +132,7 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
 
 ### [1.3 Communication and Networking](#1.3)
 
-1. **A Tutorial on Joint Radar and Communication Transmission for Vehicular Networks - Part I,II，III.** IEEE COMML, 2020. [Letter](https://ieeexplore.ieee.org/document/9201513),  [Letter](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9201355),  [Letter](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9201311). 
+1. **A Tutorial on Joint Radar and Communication Transmission for Vehicular Networks - Part I, II, and III.** IEEE COMML, 2020. [Letter](https://ieeexplore.ieee.org/document/9201513),  [Letter](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9201355),  [Letter](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9201311). 
 
     *F. Liu, C. Masouros*
 
