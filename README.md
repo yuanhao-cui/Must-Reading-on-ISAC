@@ -51,7 +51,7 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
     <td>&emsp;<a href="#7.3">7.3 Health and Elder Care</a></td>
     <td>&emsp;<a href="#7.4">7.4 Control Flow</a></td>
 </tr> 
-   <tr><td colspan="2"><a href="#8">8. Others </a></td></tr> 
+   <tr><td colspan="2"><a href="#8">8. Applications and Demonstrations </a></td></tr> 
 <tr>
     <td>&emsp;<a href="#8.1">8.1 Weather Monitoring</a></td>
     <td>&ensp;<a href="#8.2">8.2 Multi-Functional Network</a></td>
