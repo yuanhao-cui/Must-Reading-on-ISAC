@@ -245,7 +245,6 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
     
 
 
-
 ## [3. Signal Processing - Communication Centric](#content)  
 
 ### [3.1 Standrized Waveform](#content)
@@ -275,7 +274,6 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
     *D. Ciuonzo, A. De Maio, G. Foglia, M. Piezzo*
 
     
-
 
 ### [3.2 Transceiver Design](#content)
 
@@ -342,7 +340,6 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
    
 
-
 ### [3.4 Resource/Interference Management](#content)
 
 1. **MU-MIMO Communications With MIMO Radar: From Co-Existence to Joint Transmission.** IEEE TWC, 2018. [Journal](https://ieeexplore.ieee.org/document/8288677)
@@ -392,7 +389,6 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 1. **Bandwidth Sharing and Scheduling for Multimodal Radar with Communications and Tracking.** IEEE SAM, 2012. [Conference](https://ieeexplore.ieee.org/document/6250476)
 
      *S. S. Bhat, R. M. Narayanan, M. Rangaswamy*
-
 
 
 
@@ -460,7 +456,6 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 1. **Radar Signal Processing for Sensing in Assisted Living: The Challenges Associated With Real-Time Implementation of Emerging Algorithms.** IEEE SPM, 2019. [Magazine](https://ieeexplore.ieee.org/document/8746868)
 
     *J.L. Kernec, F. Fioranelli, C. Ding, H. Zhao, L. Sun, H. Hong, J. Lorandel, O. Romain*
-
 
 
 
@@ -542,8 +537,8 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
       *Y. Dong, G. A. Fabrizio, M. G. Amin*
 
-      <details>
-      <summary> more </summary> 
+<details>
+<summary> more </summary> 
 
 1. **Optimization and Quantization of Multibeam Beamforming Vector for Joint Communication and Radio Sensing.** IEEE TCOM, 2019. [Journal](https://ieeexplore.ieee.org/document/8738892)
 
@@ -569,9 +564,8 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
       *S. Y. Nusenu, W. Wang, A. Basit*
 
-      ```HTML
-      </details>
-      ```
+</details>
+
 
 ## [6. Networking](#content)
 
@@ -602,7 +596,6 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
    *D. E. Hack, L. K. Patton, B. Himed, M. A. Saville*
 
    
-
 
 ### [6.2 Sensor Networking](#content)
 
@@ -692,8 +685,8 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
       *F. Wang, H. Li, M. A. Govoni*
 
-      <details>
-      <summary> more </summary> 
+<details>
+<summary> more </summary> 
 
 1. **Integrated Waveform for a Joint Radar-Communication System With High-Speed Transmission.** IEEE WCL, 2019. [Letter](https://ieeexplore.ieee.org/document/8693859)
 
@@ -747,12 +740,9 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
       *H. Deng, B. Himed*
 
-      </details>
+</details>
       
-      ```HTML
       
-      ```
-
 
 ## [8. Mobile Computing - Wireless Sensing](#content)
 
@@ -784,9 +774,6 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
 
 
-
-
-
 ### [8.2 Wireless Imaging](#content)
 
 1. **See through Walls with WiFi!.** MobiCom, 2013. [Conference](https://dl.acm.org/doi/pdf/10.1145/2486001.2486039)
@@ -796,9 +783,6 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 2. **Through-the-Wall Sensing of Personnel Using Passive Bistatic WiFi Radar at Standoff Distances.** IEEE TGRS, 2011. [Journal](https://ieeexplore.ieee.org/document/6020778)
 
    *K. Chetty, G. E. Smith, K. Woodbridge*
-
-
-
 
 
 
@@ -826,16 +810,11 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
 
 
-
-
-
 ### [8.4. Control Flow](#content)
 
 1. **Coordinated Cognitive Risk Control for Bridging Vehicular Radar and Communication Systems.** IEEE TITS, 2020. [Journal](https://ieeexplore.ieee.org/document/9292428)
 
    *S. Feng, S. Haykin*
-
-
 
 
 
@@ -858,8 +837,6 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 4. **Recurrent Neural Network for Rain Estimation Using Commercial Microwave Links.** IEEE TGRS, 2020. [Journal](https://ieeexplore.ieee.org/document/9153027?denied=)
 
    *H. V. Habi, H. Messer*
-
-
 
 
 
@@ -887,8 +864,6 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
    
    
 
-
-
 ### [9.3 Remote Sensing](#content)
 
 1. **Noncontact Vital Sign Detection With UAV-Borne Radars: An Overview of Recent Advances.** IEEE VTM, 2021. [Magazine](https://ieeexplore.ieee.org/abstract/document/9478877)
@@ -902,8 +877,6 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
 
 
-
-
 ### [9.4 Site-Specified Radio Map/Database](#content)
 
 1. **Toward Environment-Aware 6G Communications via Channel Knowledge Map.** IEEE WCM, 2021. [Magazine](https://ieeexplore.ieee.org/abstract/document/9373011)
@@ -912,15 +885,11 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 
 
 
-
-
 ### [9.5 Simultaneous Localization and Mapping ](#content)
 
 1. **Millimeter-wave Mobile Sensing and Environment Mapping: Models, Algorithms and Validation.** Arxiv, 2021. [Journal](https://arxiv.org/pdf/2102.11593.pdf)
 
    *C. B. Barneto, E. R. Foi, M. F. Keskin, T. Riihonen, M. Turunen, J. Talvitie, H. Wymeersch, M. Valkama*
-
-
 
 
 
@@ -933,8 +902,6 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
 2. **Secrecy Rate Optimizations for MIMO Communication Radar.** IEEE TAES, 2018. [Journal](https://ieeexplore.ieee.org/document/8327462)
 
    *A. Deligiannis, A. Daniyan, S. Lambotharan, J. A. Chambers*
-
-
 
 
 
@@ -957,5 +924,3 @@ from IEEE ComSoc ISAC Emerging Topic Inititive (ETI) &  IEEE SPS ISAC Technical 
    *Q. Zhang, H. Sun, Z. Wei, Z. Feng*
 
    
-
-
