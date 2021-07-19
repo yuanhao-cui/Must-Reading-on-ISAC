@@ -10,7 +10,7 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
 ## [Content](#content)
 
 <table>
-<tr><td colspan="2"><a href="#1">1. Survey and Tutorial</a></td></tr> 
+<tr><td colspan="2"><a href="#1-survey-and-tutorial">1. Survey and Tutorial</a></td></tr> 
   <tr>
     <td>&emsp;<a href="#1.1">1.1 Basic Concept  </a></td>
     <td>&ensp;<a href="#1.2">1.2 Signal Processing </a></td>
@@ -72,7 +72,7 @@ from IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Techn
 
 
 
-## [1. Survey papers](#1)
+## [1. Survey and Tutorial](#1-surveys-and-tutorials)
 
 ### [1.1 Basic Concept](#1.1)
 
