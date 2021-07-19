@@ -306,7 +306,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 3. **Radar-assisted Predictive Beamforming for Vehicular Links: Communication Served by Sensing.** IEEE TWC, 2021. [Journal](https://ieeexplore.ieee.org/document/9171304)
 
-   *Liu, F., Yuan, W., Masouros, C., & Yuan, J.*
+   *F. Liu, W. Yuan, C. Masouros, J. Yuan*
 
 4. **Bayesian Predictive Beamforming for Vehicular Networks: A Low-Overhead Joint Radar-Communication Approach.** IEEE TWC, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9246715)
 
