@@ -58,11 +58,11 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
     <td>&ensp;<a href="#92-multi-functional-network">9.2 Multi-Functional Network</a></td>
 </tr> 
 <tr>
-     <td>&emsp;<a href="#93-health---elderly-care">9.3 Health & Elderly Care</a></td>
+     <td>&emsp;<a href="#93-health-and-elderly-care">9.3 Health and Elderly Care</a></td>
     <td>&emsp;<a href="#94-remote-sensing">9.4 Remote Sensing</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#95-site-specified-radio-map-database">9.5 Site-Specified Radio Map/Database</a></td>
+    <td>&ensp;<a href="#95-site-specified-radio-map">9.5 Site-Specified Radio Map</a></td>
     <td>&emsp;<a href="#96-simultaneous-localization-and-mapping">9.6 Simultaneous Localization and Mapping</a></td>
 </tr>
   <tr>
@@ -843,7 +843,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
    *P. K. Hughes, J. Y. Choe* 
    
 
-### [9.3 Health & Elderly Care](#8.3)
+### [9.3 Health and Elderly Care](#8.3)
 
 1. **Assessment of Medication Self-administration using Artificial Intelligence.** Nature Med, 2021. [Magazine](https://www.nature.com/articles/s41591-021-01273-1.pdf)
 
@@ -879,7 +879,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 
 
-### [9.5 Site-Specified Radio Map/Database](#9.4)
+### [9.5 Site-Specified Radio Map](#9.4)
 
 1. **Toward Environment-Aware 6G Communications via Channel Knowledge Map.** IEEE WCM, 2021. [Magazine](https://ieeexplore.ieee.org/abstract/document/9373011)
 
