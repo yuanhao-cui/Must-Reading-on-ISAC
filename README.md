@@ -296,9 +296,9 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 1. **Multifunctional Transceiver for Future Intelligent Transportation Systems.** IEEE TMTT, 2011. [Journal](https://ieeexplore.ieee.org/document/5759762)
 
     *L. Han, K. Wu*
-
     
-
+1. **RF Front-End Challenges for Joint Communication and Radar Sensing.** IEEE JC&S, 2021. [Conference](https://ieeexplore.ieee.org/document/9376387)
+    *F. Bozorgi, P. Sen, A. N. Barreto, G. Fettweis*  
 
 ### [3.3 Infrastracture Enhancement](#3.3)
 
