@@ -82,7 +82,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
     *Y. Cui, F. Liu, X. Jing, J. Mu* 
 
-1. **Joint Radar and Communication Design: Applications, State-of-the-Art, and the Road Ahead.** IEEE TCOM, 2020. [Journal](https://ieeexplore.ieee.org/document/8999605). [code](https://github.com/yuanhao-cui/Must-Reading-on-ISAC/blob/main/Codes/Fan2020TCOM/Fan_DFRC.m)
+1. **Joint Radar and Communication Design: Applications, State-of-the-Art, and the Road Ahead.** IEEE TCOM, 2020. [Journal](https://ieeexplore.ieee.org/document/8999605). [Code](https://github.com/yuanhao-cui/Must-Reading-on-ISAC/blob/main/Codes/Fan2020TCOM/Fan_DFRC.m)
 
     *F. Liu, C. Masouros, A. P. Petropulu, H. Griffiths, L. Hanzo*
 
