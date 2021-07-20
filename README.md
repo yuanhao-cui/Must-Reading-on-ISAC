@@ -198,6 +198,10 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
     *M.Ahmadipour, M.Wigger, M. Kobayashi*
 
+1. **A Survey on Fundamental Limits of Integrated Sensing and Communication.** Arxiv, 2021. [Journal](https://arxiv.org/abs/2104.09954)
+
+    *A. Liu, Z. Huang, M. Li, Y. Wan, W. Li, T. X. Han, C. Liu, R. Du, D. T. K. Ping, J. Liu, Y. Shen, F. Colone, K. Chetty*
+    
 1. **Joint Transmission and State Estimation: A Constrained Channel Coding Approach.** IEEE TIT, 2011. [Journal](https://ieeexplore.ieee.org/document/6034756)
 
     *W. Zhang, S. Vedantam, U. Mitra*
