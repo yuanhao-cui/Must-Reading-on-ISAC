@@ -154,7 +154,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
     *O. B. Akan, M. Arik*
 
-1. **Full Duplex Radio/Radar Technology: The Enabler for Advanced Joint Communication and Sensing.** IEEE WCM, 2021. [Magazine](https://ieeexplore.ieee.org/abstract/document/9363029). 
+1. **Full Duplex Radio/ Radar Technology: The Enabler for Advanced Joint Communication and Sensing.** IEEE WCM, 2021. [Magazine](https://ieeexplore.ieee.org/abstract/document/9363029). 
 
     *C. B. Barneto, S. D. Liyanaarachchi, M. Heino, T. Riihonen, M. Valkama*
 
@@ -601,7 +601,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 1. **Wireless sensor networks: a survey. Computer networks.** Computer Networks, 2002. [Journal](https://www.sciencedirect.com/science/article/abs/pii/S1389128601003024)
  
- *I. F. Akyildiz, W. Su, Y. Sankarasubramaniam, E. Cayirci*
+   *I. F. Akyildiz, W. Su, Y. Sankarasubramaniam, E. Cayirci*
 
 ### [6.3 ISAC Networking](#6.3)
 
