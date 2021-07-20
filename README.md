@@ -593,7 +593,9 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 ### [6.2 Sensor Networking](#6.2)
 
-
+1. **Wireless sensor networks: a survey. Computer networks.** Computer Networks, 2002. [Journal](https://www.sciencedirect.com/science/article/abs/pii/S1389128601003024)
+ 
+ *I. F. Akyildiz, W. Su, Y. Sankarasubramaniam, E. Cayirci*
 
 ### [6.3 ISAC Networking](#6.3)
 
