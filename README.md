@@ -935,8 +935,4 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
    *Q. Zhang, H. Sun, Z. Wei, Z. Feng*
 
-1. **RF Front-End Challenges for Joint Communication and Radar Sensing.** IEEE JC&S, 2021. [Conference](https://ieeexplore.ieee.org/document/9376387)
-
-   *F. Bozorgi, P. Sen, A. N. Barreto, G. Fettweis*
-
    
