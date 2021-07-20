@@ -28,7 +28,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 </tr> 
   <tr>
     <td>&emsp;<a href="#33-infrastracture-enhancement">3.3 Infrastracture Enhancement</a></td>
-    <td>&emsp;<a href="#34-resource-management">3.4 Resource Management</a></td>
+    <td>&emsp;<a href="#34-resource-and-interference-management">3.4 Resource and Interference Management</a></td>
 <tr><td colspan="2"><a href="#4-signal-processing---sensing-centric">4. Signal Processing - Sensing Centric</a></td></tr> 
 <tr>
     <td>&emsp;<a href="#41-waveform-design">4.1 Waveform Design</a></td>
@@ -333,7 +333,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
    
 
-### [3.4 Resource/Interference Management](#3.4)
+### [3.4 Resource and Interference Management](#3.4)
 
 1. **MU-MIMO Communications With MIMO Radar: From Co-Existence to Joint Transmission.** IEEE TWC, 2018. [Journal](https://ieeexplore.ieee.org/document/8288677).[Code](https://github.com/yuanhao-cui/Must-Reading-on-ISAC/blob/main/Codes/Fan2018TWC/SeparatedDeployment_SidelobeMin.m)
 
