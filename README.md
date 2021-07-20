@@ -3,6 +3,8 @@ Other Terms : Joint Radar Communications (JRC) / Joint Communication and Radar S
 
 Definition: A design paradigm and corresponding enabling technologies, in which sensing and comms systems are integrated to efﬁciently utilize congested wireless/hardware resources, and even to pursue mutual beneﬁts.
 
+*Aims: include reproducible codes, good papers and a research libary.*
+
 Contributed by Yuanhao Cui, BUPT, and Fan Liu, SUSTech
 
 Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Technical Working Group (TWG)
