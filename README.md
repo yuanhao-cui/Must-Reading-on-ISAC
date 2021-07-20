@@ -887,7 +887,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 
 
-### [9.6 Simultaneous Localization and Mapping ](#9.5)
+### [9.6 Simultaneous Localization and Mapping](#9.5)
 
 1. **Millimeter-wave Mobile Sensing and Environment Mapping: Models, Algorithms and Validation.** Arxiv, 2021. [Journal](https://arxiv.org/pdf/2102.11593.pdf)
 
@@ -917,7 +917,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
     *A. Dimas, M. A. Clark, B. Li, K. Psounis, A. P. Petropulu*
 
-### [9.8 Demonstrations ](#9.7)
+### [9.8 Demonstrations](#9.7)
 
 1. **JCR70: A Low-Complexity Millimeter-Wave Proof-of-Concept Platform for A Fully-Digital MIMO Joint Communication-Radar.** IEEE OJVT, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9392306)
 
