@@ -58,7 +58,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
     <td>&ensp;<a href="#92-multi-functional-network">9.2 Multi-Functional Network</a></td>
 </tr> 
 <tr>
-     <td>&emsp;<a href="#93-health-elder-care">9.3 Health & Elderly Care</a></td>
+     <td>&emsp;<a href="#93-health---elderly-care">9.3 Health & Elderly Care</a></td>
     <td>&emsp;<a href="#94-remote-sensing">9.4 Remote Sensing</a></td>
 </tr>
 <tr>
@@ -66,8 +66,8 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
     <td>&emsp;<a href="#96-simultaneous-localization-and-mapping">9.6 Simultaneous Localization and Mapping</a></td>
 </tr>
   <tr>
-     <td>&ensp;<a href="#97-security and privacy">9.7 Security and Privacy</a></td>
-    <td>&emsp;<a href="#98-demonstration">9.8 Demonstration</a></td>
+     <td>&ensp;<a href="#97-security-and-privacy">9.7 Security and Privacy</a></td>
+    <td>&emsp;<a href="#98-demonstrations">9.8 Demonstrations</a></td>
 </tr>
 </table>
 
@@ -842,7 +842,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
    *P. K. Hughes, J. Y. Choe* 
    
 
-### [9.3 Health & Elder Care](#8.3)
+### [9.3 Health & Elderly Care](#8.3)
 
 1. **Assessment of Medication Self-administration using Artificial Intelligence.** Nature Med, 2021. [Magazine](https://www.nature.com/articles/s41591-021-01273-1.pdf)
 
