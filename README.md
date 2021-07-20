@@ -335,7 +335,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 ### [3.4 Resource/Interference Management](#3.4)
 
-1. **MU-MIMO Communications With MIMO Radar: From Co-Existence to Joint Transmission.** IEEE TWC, 2018. [Journal](https://ieeexplore.ieee.org/document/8288677) [code](https://github.com/yuanhao-cui/Must-Reading-on-ISAC/blob/main/Codes/Fan2018TWC/SeparatedDeployment_SidelobeMin.m)
+1. **MU-MIMO Communications With MIMO Radar: From Co-Existence to Joint Transmission.** IEEE TWC, 2018. [Journal](https://ieeexplore.ieee.org/document/8288677).[Code](https://github.com/yuanhao-cui/Must-Reading-on-ISAC/blob/main/Codes/Fan2018TWC/SeparatedDeployment_SidelobeMin.m)
 
     *F. Liu, C. Masouros, A. Li, H. Sun, L. Hanzo*
 
@@ -462,7 +462,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 ### [5. Signal Processing - Joint Design](#5)
 
-1. **Toward Dual-functional Radar-Communication Systems: Optimal Waveform Design.** IEEE TSP, 2018. [Journal](https://ieeexplore.ieee.org/document/8386661)[Code](https://github.com/yuanhao-cui/Must-Reading-on-ISAC/tree/main/Codes/Fan2018TSP)
+1. **Toward Dual-functional Radar-Communication Systems: Optimal Waveform Design.** IEEE TSP, 2018. [Journal](https://ieeexplore.ieee.org/document/8386661).[Code](https://github.com/yuanhao-cui/Must-Reading-on-ISAC/tree/main/Codes/Fan2018TSP)
 
     *F. Liu, L. Zhou, C. Masouros, A. Li, W. Luo, A. Petropulu*
 
