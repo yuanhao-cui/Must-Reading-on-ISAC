@@ -254,11 +254,11 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 1. **Full-Duplex OFDM Radar With LTE and 5G NR Waveforms: Challenges, Solutions, and Measurements.** IEEE TMTT, 2019. [Journal](https://ieeexplore.ieee.org/document/8805161)
 
-    *C. B. Barneto, T. Riihonen, M. Turunen, L. Anttiila, M. Fleischer, K. Stadius, J. Ryynanen, M, Valkama.*
+    *C. B. Barneto, T. Riihonen, M. Turunen, L. Anttiila, M. Fleischer, K. Stadius, J. Ryynanen, M, Valkama*
 
 1. **Optimized Waveforms for 5G–6G Communication with Sensing: Theory, Simulations and Experiments.** IEEE TWC, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9468975)
 
-    *S. D. Liyanaarachchi, T. Riihonen, C. B. Barneto, M. Valkama.*
+    *S. D. Liyanaarachchi, T. Riihonen, C. B. Barneto, M. Valkama*
 
 1. **LoRadar: Enabling Concurrent Radar Sensing and LoRa Communication.** IEEE TMC, 2020. [Journal](https://ieeexplore.ieee.org/document/9248648)
 
@@ -291,7 +291,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 1. **Hybrid Beamforming for Multi-carrier Dual-Function Radar-Communication System.** IEEE TCCN, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9366836)
 
-    *Z. Cheng, Z. He, B. Lia*
+    *Z. Cheng, Z. He, B. Liao*
 
 1. **Multifunctional Transceiver for Future Intelligent Transportation Systems.** IEEE TMTT, 2011. [Journal](https://ieeexplore.ieee.org/document/5759762)
 
@@ -481,6 +481,10 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 1. **Adaptive Virtual Waveform Design for Millimeter-Wave Joint Communication–Radar.** IEEE TSP, 2019. [Journal](https://ieeexplore.ieee.org/document/8917703)
 
     *P. Kumari, S. A. Vorobyov, R. W. Heath*
+    
+1. **Adaptive OFDM Integrated Radar and Communications Waveform Design Based on Information Theory.** IEEE COMML, 2017. [Letter](https://ieeexplore.ieee.org/abstract/document/7970102)
+
+    *Y. Liu, G. Liao, J. Xu, Z. Yang, Y. Zhang*
 
 1. **Spatio-Temporal Power Optimization for MIMO Joint Communication and Radio Sensing Systems with Training Overhead.** IEEE TVT, 2020. [Journal](https://ieeexplore.ieee.org/document/9303435)
 
@@ -916,6 +920,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 5. **On Radar Privacy in Shared Spectrum Scenarios.** IEEE ICASSP, 2019. [Conference](https://ieeexplore.ieee.org/document/8682745)
 
     *A. Dimas, M. A. Clark, B. Li, K. Psounis, A. P. Petropulu*
+    
 
 ### [9.8 Demonstrations](#9.7)
 
