@@ -610,7 +610,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 ### [6.3 ISAC Networking](#6.3)
 
-1. **RadChat: Spectrum Sharing for Automotive Radar Interference Mitigation.** IEEE TITS, 2021. [Conference](https://ieeexplore.ieee.org/abstract/document/8943325)
+1. **RadChat: Spectrum Sharing for Automotive Radar Interference Mitigation.** IEEE TITS, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/8943325)
 
    *C. Aydogdu, M. F. Keskin, N. Garcia, H. Wymeersch, D. W. Bliss*
 
