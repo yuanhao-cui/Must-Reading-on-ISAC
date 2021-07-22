@@ -608,6 +608,14 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
  
    *I. F. Akyildiz, W. Su, Y. Sankarasubramaniam, E. Cayirci*
 
+1. **Fundamental Limits of Wideband Localization— Part I: A General Framework.** IEEE TIT, 2010. [Journal](https://ieeexplore.ieee.org/document/5571900)
+ 
+   *Y. Shen, M. Win*
+
+1. **Fundamental Limits of Wideband Localization— Part II: Cooperative Networks.** IEEE TIT, 2010. [Journal](https://ieeexplore.ieee.org/document/5571889)
+ 
+   *Y. Shen, H. Wymeersch, M. Win*
+
 ### [6.3 ISAC Networking](#6.3)
 
 1. **RadChat: Spectrum Sharing for Automotive Radar Interference Mitigation.** IEEE TITS, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/8943325)
