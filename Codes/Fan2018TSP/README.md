@@ -10,7 +10,7 @@ We focus on a dual-functional multi-input-multioutput (MIMO) radar-communication
 
 # About this code
 ### Software platform
-- Matlab 2016/2018/2020
+- MATLAB 2016/2018/2020
 - To run those codes, please download and install the following toolbox:
 -CVX: http://cvxr.com/cvx/
 -Manopt: https://www.manopt.org/
