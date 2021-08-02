@@ -103,8 +103,8 @@ cvx_end
 cvx_begin quiet
     variable W1opt(Nc,Nc) hermitian
     variable W2opt(Nc,Nc) hermitian
-    variable sigma
-    minimize( square_pos(norm( diag( a2'*(W1opt+W2opt)*a2 - sigma*(a1'*R1*a1) ) ,2)) );
+    variable sigma_temp
+    minimize( square_pos(norm( diag( a2'*(W1opt+W2opt)*a2 - sigma_temp*(a1'*R1*a1) ) ,2)) );
     subject to
         % SINR constraints for each user
         %abs(trace( conj(g(:,1))*transpose(g(:,1))*W1 ))/abs(( trace( conj(g(:,2))*transpose(g(:,2))*W1 ) + ...
@@ -115,7 +115,7 @@ cvx_begin quiet
            trace( conj(f(:,2))*transpose(f(:,2))*R1 ) )) >= N0*Gamma(2);
         % Power constraint
         trace(W1opt + W2opt) <= Pc;
-        sigma >= 0;
+        sigma_temp >= 0;
     W1opt == semidefinite(Nc);
     W2opt == semidefinite(Nc);
 cvx_end
@@ -172,7 +172,7 @@ numFeasible = size(u2F,3);           % this number better be [0,nRand^N] lol. Ye
 WcovSum = zeros(Nc,Nc,numFeasible); obj = zeros(1,numFeasible);
 for i = 1:size(u2F,3)
     WcovSum(:,:,i) = (u2F(:,1,i)*u2F(:,1,i)') + (u2F(:,2,i)*u2F(:,2,i)');
-    obj(i) = ( norm( diag( a2'*WcovSum(:,:,i)*a2 - sigma*a1'*R1*a1 ) ) )^2;
+    obj(i) = ( norm( diag( a2'*WcovSum(:,:,i)*a2 - sigma_temp*a1'*R1*a1 ) ) )^2;
 end
 [minVal,minIndex] = min(obj);
 w1 = u2F(:,1,minIndex); W1 = (w1*w1');
