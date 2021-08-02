@@ -11,9 +11,7 @@ We focus on a dual-functional multi-input-multioutput (MIMO) radar-communication
 # About this code
 ### Software platform
 - MATLAB 2016/2018/2020
-- To run those codes, please download and install the following toolbox:
--CVX: http://cvxr.com/cvx/
--Manopt: https://www.manopt.org/
+- To run those codes, please download and install [CVX](http://cvxr.com/cvx/) & [Manopt](https://www.manopt.org/)
 ### Content
 - The folder "Waveform Design With Given Radar Beampatterns" is provided to produuct Fig.3-Fig.7
 - The folder "Constant modulus" is provided to product Fig.8-Fig.10

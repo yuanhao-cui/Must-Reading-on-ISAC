@@ -11,8 +11,7 @@ Beamforming techniques are proposed for a joint multi-input-multi-output (MIMO) 
 # About this code
 ### Software platform
 - MATLAB 2014/2016/2018/2020
-- To run those codes, please download and install the following toolbox:
--CVX: http://cvxr.com/cvx/
+- To run those codes, please download and install [CVX](http://cvxr.com/cvx/)
 
 ### Content
 - To product Fig.3-Fig.4 in this paper
