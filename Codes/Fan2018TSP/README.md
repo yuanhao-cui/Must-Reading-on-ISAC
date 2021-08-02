@@ -1,5 +1,5 @@
 # Paper
-> Fan Liu*; Longfei Zhou; Christos Masouros; Ang Li; Wu Luo; Athina Petropulu: Toward Dual-functional Radar-Communication Systems: Optimal Waveform Design, IEEE Transactions on Signal Processing, vol. 66, no. 16, pp. 4264-4279, Aug. 2018. (ranked 8th most popular article in IEEE TSP, Feb 2021)
+> F. Liu, L. Zhou, C. Masouros, A. Li, W. Luo and A. Petropulu, "Toward Dual-functional Radar-Communication Systems: Optimal Waveform Design," in IEEE Transactions on Signal Processing, vol. 66, no. 16, pp. 4264-4279, Aug. 2018. (ranked 8th most popular article in IEEE TSP, Feb 2021)
 
 - All codes are contributed by Fan Liu, SUSTech
 - [Click here to preview this paper in IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8386661)
