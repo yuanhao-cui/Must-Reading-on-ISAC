@@ -11,8 +11,7 @@ Sharing of the frequency bands between radar and communication systems has attra
 # About this code
 ### Software platform
 - MATLAB 2014/2016/2018/2020
-- To run those codes, please download and install the following toolbox:
--CVX: http://cvxr.com/cvx/
+- To run those codes, please download and install [CVX](http://cvxr.com/cvx/)
 
 ### Content
 - To product BS ZF Transmit Beampattern & BS DFRC Transmit Beampatternin in this paper
