@@ -1,6 +1,6 @@
 # Codes for some papers on ISAC (2021/8/1)
 
-- Many thanks to every contrbutors of those codes on ISAC papers. You can be free to share those codes and create a `pull request` to contrbute your own codes for corresponding ISAC papers. 
+- Many thanks to every contrbutors of those codes on ISAC papers. You can be free to share those codes and create a `pull request` to contribute your own codes for corresponding ISAC papers. 
 - **Please cite related papers if those codes are helpful to you.**
 - Let us build a mysterious and wonderful ISAC world together. :-)
 
