@@ -82,7 +82,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
     *F. Liu, Y. Cui, C. Masouros, J. Xu, T. X. Han, Y. C. Eldar, S. Buzzi* 
 
-1. **Integrating Sensing and Communications for Ubiquitous IoT: Applications, Trends and Challenges.** IEEE Network, 2021. [Magazine](https://arxiv.org/pdf/2104.11457.pdf). 
+1. **Integrating Sensing and Communications for Ubiquitous IoT: Applications, Trends and Challenges.** IEEE Network, 2021. [Magazine](https://ieeexplore.ieee.org/document/9606831/). 
 
     *Y. Cui, F. Liu, X. Jing, J. Mu* 
 
@@ -622,6 +622,11 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 1. **RadChat: Spectrum Sharing for Automotive Radar Interference Mitigation.** IEEE TITS, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/8943325)
 
    *C. Aydogdu, M. F. Keskin, N. Garcia, H. Wymeersch, D. W. Bliss*
+   
+1. **Sensing and Communication Co-Design for Status Update in Multiaccess Wireless Networks.** IEEE TMC, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9525223)
+
+   *F. Peng, Z. Jiang, S. Zhou, Z. Niu, S. Zhang*
+
 
 ## [7. Specturm Sharing](#7)
 
