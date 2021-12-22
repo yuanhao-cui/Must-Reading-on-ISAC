@@ -138,6 +138,10 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 ### [1.3 Communication and Networking](#1.3)
 
+1. **Enabling Joint Communication and Radio Sensing in Mobile Networks--A Survey.** IEEE COMST, 2020. [Journal](https://ieeexplore.ieee.org/abstract/document/9585321). 
+
+    *J. Zhang, Md. Rahman,  K. Wu, X. Huang, Y. Guo, S. Chen, J. Yuan*
+
 1. **A Tutorial on Joint Radar and Communication Transmission for Vehicular Networks - Part I, II, and III.** IEEE COMML, 2020. [Letter](https://ieeexplore.ieee.org/document/9201513),  [Letter](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9201355),  [Letter](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9201311). 
 
     *F. Liu, C. Masouros*
@@ -145,10 +149,6 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 1. **Perceptive Mobile Network: Cellular Networks With Radio Vision via Joint Communication and Radar Sensing.** IEEE VTM, 2020. [Magazine](https://ieeexplore.ieee.org/document/9296833). 
 
     *A. Zhang, M. L. Rahman, X. Huang, Y. J. Guo, S. Chen, R. W. Heath*
-
-1. **Enabling Joint Communication and Radio Sensing in Mobile Networks--A Survey.** ArXiv Preprint, 2020. [Journal](https://arxiv.org/abs/2006.07559v2). 
-
-    *Md. Rahman, J. Zhang, K. Wu, X. Huang, Y. Guo, S. Chen, J. Yuan*
 
 1. **Leveraging Sensing at the Infrastructure for mmWave Communication.** IEEE COMMAG, 2020. [Magazine](https://ieeexplore.ieee.org/document/9162000). 
 
