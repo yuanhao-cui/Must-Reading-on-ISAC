@@ -106,7 +106,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 ### [1.2 Signal Processing](#1.2)
 
-1. **An Overview of Signal Processing Techniques for Joint Communication and Radar Sensing.** Arxiv, 2021. [Journal](https://arxiv.org/abs/2102.12780).
+1. **An Overview of Signal Processing Techniques for Joint Communication and Radar Sensing.** IEEE JSTSP, 2021. [Journal](https://ieeexplore.ieee.org/document/9540344/).
 
     *J. A. Zhang, F. Liu, C. Masouros, R. W. Heath, Z. Feng, L. Zhang, A. Petropulu*
 
