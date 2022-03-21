@@ -78,7 +78,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 ### [1.1 Basic Concept](##11-basic-concept)
 
-1. **Integrated Sensing and Communications: Towards Dual-functional Wireless Networks for 6G and Beyond.** Arxiv, 2021. [Journal](https://arxiv.org/abs/2108.07165). 
+1. **Integrated Sensing and Communications: Towards Dual-functional Wireless Networks for 6G and Beyond.** IEEE JSAC, 2022. [Journal](https://ieeexplore.ieee.org/document/9737357). 
 
     *F. Liu, Y. Cui, C. Masouros, J. Xu, T. X. Han, Y. C. Eldar, S. Buzzi* 
 
