@@ -138,7 +138,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 ### [1.3 Communication and Networking](#1.3)
 
-1. **Enabling Joint Communication and Radio Sensing in Mobile Networks--A Survey.** IEEE COMST, 2020. [Journal](https://ieeexplore.ieee.org/abstract/document/9585321). 
+1. **Enabling Joint Communication and Radio Sensing in Mobile Networks--A Survey.** IEEE COMST, 2022. [Journal](https://ieeexplore.ieee.org/abstract/document/9585321). 
 
     *J. Zhang, Md. Rahman,  K. Wu, X. Huang, Y. Guo, S. Chen, J. Yuan*
 
