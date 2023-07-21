@@ -93,6 +93,10 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 1. **Waveform Design and Signal Processing Aspects for Fusion of Wireless Communications and Radar Sensing.** Proceedings of the IEEE, 2011. [Magazine](https://ieeexplore.ieee.org/document/5776640).
 
     *C. Sturm, W. Wiesbeck*
+   
+1. **Seventy Years of Radar and Communications: The road from separation to integration.** IEEE SPM, 2023.[Magazine](https://ieeexplore.ieee.org/document/10188491).
+
+    *F. Liu, L. Zheng, Y. Cui, C. Masouros, A. P. Petropulu, H. Griffiths, Y. C. Eldar*
 
 1. **Dual-Function Radar Communication Systems: A Solution to the Spectrum Congestion Problem.** IEEE SPM, 2019. [Magazine](https://ieeexplore.ieee.org/document/8828023). 
 
@@ -193,6 +197,10 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
     
 
 ## [2. Fundamental Theory and Performance Analysis](#2)   
+
+1. **On the Fundamental Tradeoff of Integrated Sensing and Communications Under Gaussian Channels.*[Journal](https://ieeexplore.ieee.org/abstract/document/10147248)*
+
+   *Y. Xiong, F. Liu, Y. Cui, W. Yuan, T. X. Han, G. Caire*
 
 1. **Joint State Sensing and Communication: Optimal Tradeoff for a Memoryless Case.** IEEE ISIT, 2018. [Conference](https://ieeexplore.ieee.org/document/8437621)
 
