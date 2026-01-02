@@ -80,7 +80,7 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 1. **Integrated Sensing and Communication: Towards Multifunctional Perceptive Network.** submitted to NREE, 2025. [Journal](https://arxiv.org/pdf/2510.14358). 
 
-    * Y. Cui, J. Nie, F. Liu, W. Yuan, Z. Feng, X. Jing, Y. Liu,  J. Xu, C. Masouros, S. Cui* 
+    *Y. Cui, J. Nie, F. Liu, W. Yuan, Z. Feng, X. Jing, Y. Liu,  J. Xu, C. Masouros, S. Cui* 
 
 1. **Integrated Sensing and Communications: Towards Dual-functional Wireless Networks for 6G and Beyond.** IEEE JSAC, 2022. [Journal](https://ieeexplore.ieee.org/document/9737357). 
 
