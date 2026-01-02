@@ -78,6 +78,10 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 
 ### [1.1 Basic Concept](##11-basic-concept)
 
+1. **Integrated Sensing and Communication: Towards Multifunctional Perceptive Network.** submitted to NREE, 2025. [Journal](https://arxiv.org/pdf/2510.14358). 
+
+    * Y. Cui, J. Nie, F. Liu, W. Yuan, Z. Feng, X. Jing, Y. Liu,  J. Xu, C. Masouros, S. Cui* 
+
 1. **Integrated Sensing and Communications: Towards Dual-functional Wireless Networks for 6G and Beyond.** IEEE JSAC, 2022. [Journal](https://ieeexplore.ieee.org/document/9737357). 
 
     *F. Liu, Y. Cui, C. Masouros, J. Xu, T. X. Han, Y. C. Eldar, S. Buzzi* 
@@ -89,10 +93,6 @@ Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS IS
 1. **Joint Radar and Communication Design: Applications, State-of-the-Art, and the Road Ahead.** IEEE TCOM, 2020. [Journal](https://ieeexplore.ieee.org/document/8999605). [Code](https://github.com/yuanhao-cui/Must-Reading-on-ISAC/blob/main/Codes/Fan2020TCOM/Fan_DFRC.m)
 
     *F. Liu, C. Masouros, A. P. Petropulu, H. Griffiths, L. Hanzo*
-
-1. **Waveform Design and Signal Processing Aspects for Fusion of Wireless Communications and Radar Sensing.** Proceedings of the IEEE, 2011. [Magazine](https://ieeexplore.ieee.org/document/5776640).
-
-    *C. Sturm, W. Wiesbeck*
    
 1. **Seventy Years of Radar and Communications: The road from separation to integration.** IEEE SPM, 2023.[Magazine](https://ieeexplore.ieee.org/document/10188491).
 
